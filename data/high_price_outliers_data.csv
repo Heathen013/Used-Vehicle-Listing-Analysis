@@ -1,0 +1,155 @@
+id,region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,VIN,drive,size,type,paint_color,state
+7315849335,birmingham,987654321,1960.0,chevrolet,,,,gas,999999.0,clean,manual,,,,,,al
+7315961634,dothan,99999999,1993.0,ford,ranger,,,gas,99999.0,clean,automatic,,,,,,al
+7316221976,flagstaff / sedona,213000,1933.0,ford,2 dr victoria,,,gas,999999.0,clean,automatic,,,,,,az
+7310125042,flagstaff / sedona,229500,2018.0,ferrari,488 spider,,8 cylinders,gas,7910.0,salvage,automatic,ZFF80AMA9J0233387,rwd,sub-compact,convertible,red,az
+7306378728,flagstaff / sedona,229500,2019.0,,Lamborghini Urus,,8 cylinders,gas,32922.0,clean,automatic,ZPBUA1ZL1KLA02237,4wd,compact,SUV,white,az
+7314851682,tucson,239995,2017.0,ferrari,488 gtb,,8 cylinders,gas,6450.0,clean,automatic,ZFF79ALA5H0227406,rwd,,coupe,red,az
+7310897583,tucson,239995,2017.0,ferrari,488 gtb,,8 cylinders,gas,6012.0,clean,automatic,ZFF79ALA5H0227406,rwd,,coupe,red,az
+7303923231,bakersfield,179988,2021.0,mercedes-benz,g-class,excellent,,gas,,clean,automatic,,4wd,,SUV,,ca
+7314964461,fresno / madera,1111111,2014.0,chevrolet,,,,other,11.0,clean,automatic,,,,,,ca
+7313823064,gold country,249999,2005.0,,lamborghini murcielago,like new,,gas,4478.0,clean,manual,,,,,,ca
+7305265540,humboldt county,1111111111,1999.0,ford,f350 super duty lariat,good,8 cylinders,diesel,149000.0,clean,automatic,,rwd,full-size,pickup,white,ca
+7316784645,los angeles,255000,2018.0,mercedes-benz,g550 square,,8 cylinders,gas,2000.0,clean,automatic,,4wd,,SUV,black,ca
+7303928760,merced,179988,2021.0,mercedes-benz,g-class,excellent,,gas,,clean,automatic,,4wd,,SUV,,ca
+7314053169,modesto,1111111111,2020.0,jeep,,,,gas,1000.0,clean,automatic,,4wd,,,,ca
+7314052904,modesto,3009548743,2021.0,chevrolet,,,8 cylinders,gas,1000.0,clean,automatic,,4wd,,,,ca
+7313602739,orange county,279888,2018.0,,rolls royce dawn,excellent,12 cylinders,gas,14000.0,clean,automatic,,,,,black,ca
+7313568231,orange county,179888,2018.0,aston-martin,martin db11,like new,12 cylinders,gas,7800.0,clean,automatic,,,,,white,ca
+7314331466,palm springs,347999,2020.0,ferrari,f8 tributo,excellent,8 cylinders,gas,3000.0,clean,automatic,ZFF92LLA5L0257118,,,coupe,,ca
+7308274924,palm springs,174700,2015.0,,Rolls-Royce Wraith,excellent,12 cylinders,gas,31973.0,clean,automatic,SCA665C52FUX85255,,,coupe,,ca
+7306488355,palm springs,349999,2020.0,ferrari,f8 tributo,excellent,8 cylinders,gas,2800.0,clean,automatic,ZFF92LLA5L0257118,,,coupe,,ca
+7314894029,san diego,257995,2019.0,,lamborghini urus,,,gas,6339.0,clean,automatic,,rwd,,,,ca
+7314600990,san luis obispo,223950,2021.0,mercedes-benz,g63,,,gas,2.0,clean,automatic,,,,,,ca
+7302895209,ventura county,2000000,2002.0,saturn,l-series l200 4dr sedan,good,4 cylinders,gas,164290.0,clean,automatic,,fwd,mid-size,sedan,green,ca
+7303878219,visalia-tulare,179988,2021.0,mercedes-benz,g-class,excellent,,gas,,clean,automatic,,4wd,,SUV,,ca
+7313479931,fort collins / north CO,655000,2010.0,chrysler,town & country,good,6 cylinders,gas,106000.0,clean,automatic,,,,,,co
+7305236744,eastern CT,1000000,2022.0,,Any make any model,,,other,364747.0,clean,other,,,,,,ct
+7308297502,new haven,1000000,2019.0,,Call for a free estimate,,,gas,12345.0,salvage,automatic,NH738GTD2886R9287,,,,,ct
+7316152381,"washington, DC",304995,2021.0,porsche,911,,,gas,22.0,clean,automatic,WP0CD2A97MS263705,,,convertible,white,dc
+7314029754,"washington, DC",304995,2021.0,porsche,911,,,gas,22.0,clean,automatic,WP0CD2A97MS263705,,,convertible,white,dc
+7309730903,delaware,3024942282,2000.0,mercedes-benz,benz e320,,,gas,100000.0,clean,automatic,,,,,,de
+7309194824,delaware,1000000,2022.0,,Any make any model,,,other,364747.0,clean,other,,,,,,de
+7305237859,delaware,1000000,2022.0,,Any make any model,,,other,364747.0,clean,other,,,,,,de
+7315323093,daytona beach,197999,2015.0,,Lamborghini Huracan,excellent,10 cylinders,gas,33875.0,clean,other,ZHWUC1ZF0FLA02046,,mid-size,coupe,green,fl
+7310497103,daytona beach,209999,2015.0,,Lamborghini Huracan,excellent,10 cylinders,gas,11828.0,clean,other,ZHWUC1ZF9FLA02580,,mid-size,coupe,green,fl
+7305853593,daytona beach,199999,2017.0,mercedes-benz,g-class,excellent,8 cylinders,gas,15189.0,clean,other,WDCYC5FF7HX279818,,,wagon,yellow,fl
+7310299892,florida keys,220000,2016.0,,Lamborghini Huracan,like new,,gas,13000.0,clean,automatic,,rwd,full-size,convertible,white,fl
+7311936036,ft myers / SW florida,990000,2017.0,mercedes-benz,amg g 63,,8 cylinders,gas,4085.0,clean,automatic,WDCYC7DF5HX267228,4wd,,SUV,white,fl
+7310498492,jacksonville,209999,2015.0,,Lamborghini Huracan,excellent,10 cylinders,gas,11828.0,clean,other,ZHWUC1ZF9FLA02580,,mid-size,coupe,green,fl
+7310499642,lakeland,209999,2015.0,,Lamborghini Huracan,excellent,10 cylinders,gas,11828.0,clean,other,ZHWUC1ZF9FLA02580,,mid-size,coupe,green,fl
+7302657073,lakeland,204999,2015.0,ferrari,f12berlinetta,excellent,12 cylinders,gas,30920.0,clean,other,ZFF74UFA3F0206272,,mid-size,coupe,red,fl
+7312991058,ocala,197999,2015.0,,Lamborghini Huracan,excellent,10 cylinders,gas,33875.0,clean,other,ZHWUC1ZF0FLA02046,,mid-size,coupe,green,fl
+7305854417,ocala,199999,2017.0,mercedes-benz,g-class,excellent,8 cylinders,gas,15189.0,clean,other,WDCYC5FF7HX279818,,,wagon,yellow,fl
+7302645979,ocala,204999,2015.0,ferrari,f12berlinetta,excellent,12 cylinders,gas,30920.0,clean,other,ZFF74UFA3F0206272,,mid-size,coupe,red,fl
+7315322733,orlando,197999,2015.0,,Lamborghini Huracan,excellent,10 cylinders,gas,33875.0,clean,other,ZHWUC1ZF0FLA02046,,mid-size,coupe,green,fl
+7314124996,orlando,6995495,2014.0,dodge,journey,,4 cylinders,gas,135888.0,clean,automatic,3C4PDCAB5ET204162,fwd,,SUV,,fl
+7313051670,orlando,516999,2016.0,,Lambo Aventador SV Roadster,like new,12 cylinders,gas,9982.0,clean,automatic,,4wd,full-size,convertible,white,fl
+7312991083,orlando,197999,2015.0,,Lamborghini Huracan,excellent,10 cylinders,gas,33875.0,clean,other,ZHWUC1ZF0FLA02046,,mid-size,coupe,green,fl
+7316199225,south florida,285000,2021.0,,Lamborghini huracan evo,excellent,10 cylinders,gas,950.0,clean,automatic,ZHWUF5ZF6MLA16206,rwd,,coupe,green,fl
+7315366081,south florida,269950,2018.0,,ROLLS ROYCE GHOST,like new,12 cylinders,gas,6030.0,clean,automatic,,,full-size,sedan,,fl
+7314803400,south florida,470000,2016.0,,hINO 268,good,,diesel,167268.0,clean,automatic,,,,,white,fl
+7314413295,south florida,182000,2021.0,mercedes-benz,g550,new,,gas,50.0,clean,automatic,,,,,grey,fl
+7305854456,space coast,199999,2017.0,mercedes-benz,g-class,excellent,8 cylinders,gas,15189.0,clean,other,WDCYC5FF7HX279818,,,wagon,yellow,fl
+7312992106,st augustine,197999,2015.0,,Lamborghini Huracan,excellent,10 cylinders,gas,33875.0,clean,other,ZHWUC1ZF0FLA02046,,mid-size,coupe,green,fl
+7302655832,st augustine,204999,2015.0,ferrari,f12berlinetta,excellent,12 cylinders,gas,30920.0,clean,other,ZFF74UFA3F0206272,,mid-size,coupe,red,fl
+7312992696,tampa bay area,197999,2015.0,,Lamborghini Huracan,excellent,10 cylinders,gas,33875.0,clean,other,ZHWUC1ZF0FLA02046,,mid-size,coupe,green,fl
+7315836487,atlanta,987654321,1960.0,chevrolet,,,,gas,9999999.0,clean,manual,,,,,,ga
+7316889794,hawaii,225995,2016.0,porsche,911,,6 cylinders,gas,159.0,clean,other,WP0AF2A97GS192995,rwd,,coupe,purple,hi
+7315883576,hawaii,289995,2016.0,ferrari,f12berlinetta,,12 cylinders,gas,3675.0,clean,manual,ZFF74UFA0G0215299,rwd,,coupe,white,hi
+7314971316,hawaii,289900,2018.0,ferrari,488 spider,,8 cylinders,gas,3300.0,clean,automatic,ZFF80AMA2J0232999,rwd,,convertible,grey,hi
+7316029298,east idaho,425000,1993.0,jeep,wrangler,,,gas,380.0,clean,automatic,,,,,red,id
+7316047597,spokane / coeur d'alene,17000000,2007.0,ram,2500,good,8 cylinders,diesel,170000.0,rebuilt,automatic,,4wd,full-size,pickup,black,id
+7314339777,spokane / coeur d'alene,123456789,1999.0,buick,regal,like new,6 cylinders,gas,96000.0,clean,automatic,,fwd,full-size,sedan,white,id
+7304143214,springfield,227995,2017.0,ferrari,488 gtb,,,gas,13828.0,clean,automatic,,,,,,il
+7303356151,springfield,260995,2019.0,,McLaren 720S Performance,,,gas,11491.0,clean,automatic,,,,,,il
+7313726518,bloomington,566567,2006.0,chrysler,300,,,gas,130000.0,clean,automatic,,,,,,in
+7305153975,indianapolis,1234567890,2006.0,volvo,vnl,fair,,other,200000.0,clean,manual,,,,,black,in
+7308748768,terre haute,1234567,2006.0,jeep,wrangler,like new,6 cylinders,gas,123456.0,clean,automatic,,4wd,mid-size,SUV,custom,in
+7310968286,omaha / council bluffs,179995,2013.0,ferrari,458 italia,,8 cylinders,gas,4500.0,rebuilt,automatic,ZFF67NFA8D0191497,rwd,,coupe,red,ia
+7311303274,sioux city,215000,2015.0,lincoln,navigator l,,,gas,157387.0,clean,automatic,5LMJJ3JT3FEJ04496,4wd,,,,ia
+7315050869,new orleans,299991,2017.0,,Lamborghini Huracan,,10 cylinders,gas,13004.0,clean,automatic,ZHWUC2ZF4HLA06366,rwd,,coupe,blue,la
+7313967990,maine,175000,2015.0,gmc,sierra 1500,good,8 cylinders,gas,144100.0,clean,automatic,,,,truck,white,me
+7316796847,baltimore,209995,2020.0,mercedes-benz,mercedes-maybach s-class,,12 cylinders,gas,750.0,clean,automatic,W1KUX8AB3LA563186,rwd,,sedan,black,md
+7310700930,baltimore,180000,2015.0,dodge,charger,excellent,8 cylinders,gas,120000.0,clean,automatic,,,,,,md
+7304345156,frederick,1410065407,1989.0,jeep,wrangler,,,diesel,103000.0,clean,manual,,,,SUV,,md
+7315524207,ann arbor,123456789,2015.0,chevrolet,cruze,like new,,gas,64181.0,clean,automatic,1G1PC5SB0F7246637,fwd,compact,sedan,red,mi
+7307876060,ann arbor,1234567,2010.0,lincoln,mkt ecoboost,like new,,gas,85653.0,clean,automatic,2LMHJ5AT1ABJ50124,,full-size,SUV,custom,mi
+7311424888,flint,195000,2014.0,cadillac,srx awd luxury,like new,,gas,47814.0,clean,automatic,3GYFNEE38ES609648,,,SUV,white,mi
+7310274400,grand rapids,195000,2017.0,subaru,wrx,like new,4 cylinders,gas,73000.0,lien,manual,,4wd,full-size,sedan,grey,mi
+7316831610,muskegon,123456789,2003.0,,Chevy/gmc,good,8 cylinders,diesel,1234567.0,clean,automatic,,fwd,,pickup,,mi
+7315966576,saginaw-midland-baycity,554900,2019.0,,f250 xlt crewcab,excellent,8 cylinders,gas,25365.0,lien,automatic,,4wd,,pickup,white,mi
+7316796970,minneapolis / st paul,1111111,1999.0,chevrolet,corvette,,,gas,200000.0,clean,automatic,,,,,,mn
+7305419038,southwest MS,1111111,1970.0,dodge,challenger,fair,8 cylinders,gas,42000.0,clean,automatic,,rwd,full-size,coupe,blue,ms
+7310154227,joplin,299500,2018.0,,Lamborghini Aventador,,12 cylinders,gas,3171.0,salvage,automatic,ZHWUV4ZD4JLA07642,4wd,sub-compact,coupe,blue,mo
+7308010868,asheville,135008900,2008.0,nissan,titan se kingcab,like new,8 cylinders,gas,110500.0,clean,automatic,,4wd,full-size,truck,grey,nc
+7316240854,charlotte,213000,1933.0,ford,vickey copy,like new,8 cylinders,gas,4.0,clean,automatic,,,,,,nc
+7313752706,charlotte,1000000,2016.0,ford,f150,,,gas,100000.0,clean,automatic,,,,,,nc
+7312388595,charlotte,1000000,2016.0,ford,f150,,,gas,100000.0,clean,automatic,,,,,,nc
+7310495996,charlotte,1000000,2016.0,ford,f150,,,gas,100000.0,clean,automatic,,,,,,nc
+7313748377,raleigh / durham / CH,113456789,1980.0,bmw,,,,gas,100000.0,clean,automatic,,,,,,nc
+7313029407,las vegas,179888,1970.0,,plymouth barracuda,excellent,8 cylinders,gas,77000.0,clean,manual,,,,,green,nv
+7315904521,north jersey,175000,1966.0,ford,mustang,excellent,,gas,81000.0,clean,manual,,,,,white,nj
+7309735768,south jersey,3024942282,2000.0,mercedes-benz,benz s430,,,gas,100000.0,clean,automatic,,,,,,nj
+7311197664,long island,261895,2017.0,,Rolls royce dawn,like new,12 cylinders,gas,5600.0,clean,automatic,SCA666D59HU102720,rwd,,convertible,black,ny
+7315046684,new york city,179999,2018.0,porsche,911,,,gas,11195.0,clean,automatic,WP0AC2A93JS174736,rwd,,coupe,silver,ny
+7315041700,new york city,179999,2018.0,porsche,911,,,gas,11195.0,clean,automatic,WP0AC2A93JS174736,rwd,,coupe,silver,ny
+7314938687,new york city,179999,2019.0,,MCLAREN 570S,,,gas,8800.0,clean,automatic,SBM13DAA6KW006600,,,coupe,green,ny
+7315745313,new hampshire,1111111,1994.0,chevrolet,corvette,,8 cylinders,gas,1111111.0,clean,manual,,,,,,nh
+7314839271,new hampshire,5000000,2021.0,,all,,,other,1.0,clean,other,,,,,,nh
+7316162605,north dakota,1666666,1902.0,,Recycling,,,other,1111111.0,parts only,other,,,,,,nd
+7316737760,akron / canton,12345678,2019.0,chevrolet,,good,8 cylinders,gas,100000.0,clean,automatic,0,4wd,full-size,truck,black,oh
+7316737396,akron / canton,12345678,2019.0,chevrolet,,good,8 cylinders,gas,100000.0,clean,automatic,0,4wd,full-size,truck,black,oh
+7302369138,akron / canton,123456789,1965.0,chevrolet,project,,,gas,100000.0,clean,automatic,,,,,,oh
+7302113550,akron / canton,12345678,2019.0,chevrolet,,good,8 cylinders,gas,100000.0,clean,automatic,0,4wd,full-size,truck,black,oh
+7302112231,akron / canton,12345678,2019.0,chevrolet,,good,8 cylinders,gas,100000.0,clean,automatic,0,4wd,full-size,truck,black,oh
+7316820733,mansfield,10004000,2002.0,ford,f350,,,other,215000.0,clean,other,,,,,,oh
+7316736586,youngstown,12345678,2019.0,chevrolet,,good,8 cylinders,gas,100000.0,clean,automatic,0,4wd,full-size,truck,black,oh
+7302117601,youngstown,12345678,2019.0,chevrolet,,good,8 cylinders,gas,100000.0,clean,automatic,0,4wd,full-size,truck,black,oh
+7315050844,oklahoma city,299991,2017.0,,Lamborghini Huracan,,10 cylinders,gas,13004.0,clean,automatic,ZHWUC2ZF4HLA06366,rwd,,coupe,blue,ok
+7303218798,stillwater,123456789,1996.0,gmc,sierra 2500,fair,8 cylinders,gas,320000.0,clean,automatic,,4wd,full-size,pickup,black,ok
+7316966675,texoma,777777,2012.0,gmc,sierra,,,gas,144000.0,clean,automatic,,,,,,ok
+7308585322,texoma,777777,2012.0,gmc,sierra,,,gas,144000.0,clean,automatic,,,,,,ok
+7310179426,corvallis/albany,299500,2018.0,,Lamborghini Aventador,,12 cylinders,gas,3171.0,salvage,automatic,ZHWUV4ZD4JLA07642,4wd,sub-compact,coupe,blue,or
+7310167113,east oregon,229500,2018.0,ferrari,488 spider,,8 cylinders,gas,7910.0,salvage,automatic,ZFF80AMA9J0233387,rwd,sub-compact,convertible,red,or
+7308056031,eugene,3736928711,2007.0,toyota,tundra,excellent,8 cylinders,gas,164000.0,clean,automatic,,4wd,full-size,pickup,silver,or
+7316254013,portland,239900,2018.0,porsche,911 gt3 touring,,,other,4224.0,clean,manual,WP0AC2A96JS176044,rwd,,other,silver,or
+7314563134,altoona-johnstown,3226714,2002.0,,any and all,fair,8 cylinders,diesel,1234.0,clean,manual,,4wd,mid-size,sedan,blue,pa
+7303420900,altoona-johnstown,400123,2003.0,,any and all,fair,5 cylinders,diesel,123321.0,clean,automatic,,4wd,full-size,pickup,blue,pa
+7316943294,pittsburgh,225000,2018.0,,peterbilt 389,,,diesel,135000.0,clean,manual,,,,,,pa
+7310182578,chattanooga,299500,2018.0,,Lamborghini Aventador,,12 cylinders,gas,3171.0,salvage,automatic,ZHWUV4ZD4JLA07642,4wd,sub-compact,coupe,blue,tn
+7310174586,clarksville,229500,2018.0,ferrari,488 spider,,8 cylinders,gas,7910.0,salvage,automatic,ZFF80AMA9J0233387,rwd,sub-compact,convertible,red,tn
+7315944204,jackson,11111111,1966.0,chevrolet,c10,,,gas,111111.0,clean,automatic,,,,,,tn
+7302445002,knoxville,3736928711,1999.0,toyota,4runner,fair,6 cylinders,gas,211000.0,clean,automatic,,4wd,mid-size,,green,tn
+7315942075,memphis,1111111,1966.0,chevrolet,c10,,,gas,111111.0,clean,manual,,,,,,tn
+7317052348,nashville,123456789,2021.0,,Rare Car,good,8 cylinders,gas,0.0,clean,other,,rwd,,,,tn
+7315774520,nashville,184950,2019.0,,MCLAREN 570S,,,gas,9715.0,clean,,SBM13DAA8KW007084,,,coupe,silver,tn
+7312429759,nashville,449500,2019.0,ferrari,488 gtb,,,gas,500.0,clean,,ZFF79ALA7K0248037,,,coupe,red,tn
+7304059291,abilene,1234567,1955.0,chevrolet,,,,other,99999.0,missing,other,,,,,,tx
+7303378226,abilene,1234567,1955.0,chevrolet,,,,other,99999.0,missing,other,,,,,,tx
+7301838920,abilene,1234567,1955.0,chevrolet,,,,other,99999.0,missing,other,,,,,,tx
+7304059523,college station,1234567,1955.0,chevrolet,,,,other,99999.0,missing,other,,,,,,tx
+7303377558,college station,1234567,1955.0,chevrolet,,,,other,99999.0,missing,other,,,,,,tx
+7301841237,college station,1234567,1955.0,chevrolet,,,,other,99999.0,missing,other,,,,,,tx
+7315062782,dallas / fort worth,299991,2017.0,,Lamborghini Huracan,,10 cylinders,gas,13004.0,clean,automatic,ZHWUC2ZF4HLA06366,rwd,,coupe,blue,tx
+7303163871,el paso,290000,2012.0,chrysler,town & country limited,like new,,gas,24000.0,clean,automatic,,,full-size,van,white,tx
+7315051233,houston,299991,2017.0,,Lamborghini Huracan,,10 cylinders,gas,13004.0,clean,automatic,ZHWUC2ZF4HLA06366,rwd,,coupe,blue,tx
+7304058775,killeen / temple / ft hood,1234567,1955.0,chevrolet,,,,other,99999.0,missing,other,,,,,,tx
+7303379556,killeen / temple / ft hood,1234567,1955.0,chevrolet,,,,other,99999.0,missing,other,,,,,,tx
+7301832876,killeen / temple / ft hood,1234567,1955.0,chevrolet,,,,other,99999.0,missing,other,,,,,,tx
+7305725228,mcallen / edinburg,25003000,1991.0,chevrolet,camaro,fair,6 cylinders,gas,200000.0,clean,automatic,,,,,,tx
+7315061033,odessa / midland,244999,2019.0,porsche,panamera turbo st,,,gas,3322.0,clean,,WP0AF2A97KS165210,,full-size,other,green,tx
+7311602125,odessa / midland,200000,2015.0,,kenworth t800,good,,diesel,44126.0,clean,manual,1NKDX4EX3FJ454982,,,truck,,tx
+7315060933,tyler / east TX,244999,2019.0,porsche,panamera turbo st,,,gas,3322.0,clean,,WP0AF2A97KS165210,,full-size,other,green,tx
+7304058513,waco,1234567,1955.0,chevrolet,,good,,other,99999.0,missing,other,,,,,,tx
+7303381671,waco,1234567,1955.0,chevrolet,,good,,other,99999.0,missing,other,,,,,,tx
+7316661407,norfolk / hampton roads,200000,2001.0,,Intertational,excellent,,diesel,1000.0,clean,automatic,,,,,,va
+7305113434,norfolk / hampton roads,200000,2001.0,,Intertational,excellent,,diesel,1000.0,clean,automatic,,,,,,va
+7313998757,winchester,304995,2021.0,porsche,911,,,gas,22.0,clean,automatic,WP0CD2A97MS263705,,,convertible,white,va
+7316352222,seattle-tacoma,225000,1969.0,ford,mustang,excellent,8 cylinders,gas,33000.0,clean,manual,9F02Z164706,fwd,,,white,wa
+7316325002,seattle-tacoma,239900,2018.0,porsche,911 gt3 touring,,,other,4224.0,clean,manual,WP0AC2A96JS176044,rwd,,other,silver,wa
+7316245527,seattle-tacoma,185886,2011.0,ferrari,458 italia,excellent,8 cylinders,gas,9964.0,clean,automatic,,rwd,,,white,wa
+7313852214,wenatchee,225000,1969.0,ford,mustang,excellent,8 cylinders,gas,33000.0,clean,manual,9F02Z164706,fwd,,,white,wa
+7306494891,appleton-oshkosh-FDL,229500,2019.0,,Lamborghini Urus,,8 cylinders,gas,32922.0,clean,automatic,ZPBUA1ZL1KLA02237,4wd,compact,SUV,white,wi
+7317067334,eau claire,999999,2006.0,ford,f-350,,8 cylinders,diesel,204123.0,clean,automatic,,,,,,wi
+7310185437,milwaukee,299500,2018.0,,Lamborghini Aventador,,12 cylinders,gas,3171.0,salvage,automatic,ZHWUV4ZD4JLA07642,4wd,sub-compact,coupe,blue,wi

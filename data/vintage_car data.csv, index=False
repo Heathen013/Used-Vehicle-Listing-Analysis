@@ -1,0 +1,821 @@
+,id,region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,VIN,drive,size,type,paint_color,state
+455,7314165149,birmingham,22500,1929.0,ford,,,,gas,9999999.0,clean,automatic,,,,,,al
+1085,7308787250,birmingham,58500,1933.0,ford,coupe,,,gas,5830.0,clean,automatic,,,,,black,al
+1131,7308308632,birmingham,49975,1937.0,ford,,excellent,8 cylinders,gas,13025.0,clean,automatic,,rwd,full-size,coupe,blue,al
+1323,7306647155,birmingham,44650,1942.0,,WILLYS MB,,,gas,30.0,clean,manual,,,,convertible,,al
+2267,7304674605,florence / muscle shoals,58500,1933.0,ford,coupe,,,gas,5830.0,clean,automatic,,,,,black,al
+2396,7310642600,gadsden-anniston,22500,1936.0,,Nash,,,gas,1.0,clean,automatic,,,,,,al
+2404,7309952340,gadsden-anniston,22000,1932.0,ford,truck,good,8 cylinders,gas,11000.0,clean,manual,,rwd,,,,al
+2535,7316651989,huntsville / decatur,36000,1936.0,ford,slantback,excellent,8 cylinders,gas,3200.0,clean,automatic,,rwd,full-size,sedan,brown,al
+2625,7315973584,huntsville / decatur,33000,1931.0,ford,,,,gas,2500.0,clean,automatic,,,,,,al
+3844,7315401034,mobile,49900,1936.0,chevrolet,,excellent,8 cylinders,gas,1000.0,clean,automatic,,rwd,full-size,coupe,orange,al
+4060,7311138279,mobile,10995,1926.0,,1926 nash,,,gas,20.0,clean,manual,,,,,,al
+5170,7315987368,anchorage / mat-su,20000,1933.0,chevrolet,roaster,excellent,8 cylinders,gas,1000.0,clean,automatic,,rwd,,convertible,,ak
+5178,7315963277,anchorage / mat-su,40000,1934.0,chrysler,,excellent,8 cylinders,gas,44000.0,clean,automatic,,rwd,,sedan,grey,ak
+8865,7310679450,flagstaff / sedona,16000,1940.0,ford,pickup,good,8 cylinders,gas,999.0,clean,automatic,,,,pickup,,az
+9374,7316178751,mohave county,24500,1940.0,ford,coupe,excellent,8 cylinders,gas,6000.0,clean,automatic,,,,,,az
+9409,7315270948,mohave county,19000,1930.0,ford,t bucket,like new,8 cylinders,gas,303.0,clean,automatic,DMV19746CA,rwd,compact,convertible,orange,az
+9653,7307223854,mohave county,15000,1922.0,ford,t-bucket roadster,good,4 cylinders,gas,80000.0,clean,automatic,,,,convertible,orange,az
+9681,7306023407,mohave county,11500,1928.0,chevrolet,coupe,fair,4 cylinders,gas,55752.0,clean,manual,,rwd,,coupe,yellow,az
+9691,7305777775,mohave county,9250,1933.0,ford,victoria,new,8 cylinders,gas,10.0,clean,automatic,,rwd,full-size,sedan,black,az
+11108,7316381679,phoenix,8500,1941.0,buick,special,fair,8 cylinders,gas,65000.0,clean,manual,,rwd,,,,az
+11197,7316351149,phoenix,24000,1929.0,ford,tudor sedan,excellent,4 cylinders,gas,1257.0,clean,manual,,rwd,full-size,sedan,custom,az
+11341,7316287932,phoenix,32500,1932.0,ford,coupe,new,8 cylinders,gas,50.0,missing,manual,,fwd,mid-size,coupe,silver,az
+12581,7315594740,phoenix,22000,1924.0,dodge,phaeton,excellent,4 cylinders,gas,23480.0,clean,manual,,rwd,full-size,sedan,black,az
+12582,7315594110,phoenix,38000,1933.0,,Chrusler,excellent,6 cylinders,gas,33915.0,clean,manual,,rwd,full-size,sedan,blue,az
+12789,7316056253,prescott,18500,1927.0,chevrolet,coupe,good,4 cylinders,gas,100.0,clean,manual,,fwd,,coupe,green,az
+12992,7313402730,prescott,27000,1939.0,buick,century,,,gas,30500.0,clean,automatic,,,,,,az
+13010,7313024973,prescott,18500,1927.0,chevrolet,coupe,good,4 cylinders,gas,100.0,clean,manual,,fwd,,coupe,green,az
+13213,7308403361,prescott,17000,1939.0,chevrolet,coupe,fair,6 cylinders,gas,1000.0,clean,manual,,rwd,full-size,coupe,custom,az
+13269,7307696931,prescott,29000,1937.0,ford,,excellent,8 cylinders,gas,26000.0,clean,automatic,,rwd,full-size,sedan,blue,az
+13553,7307430449,show low,18000,1940.0,chevrolet,,,8 cylinders,gas,2000.0,clean,automatic,,rwd,,,,az
+14085,7316455114,tucson,7800,1928.0,,1928 Crysler,good,8 cylinders,gas,100.0,clean,automatic,,rwd,mid-size,coupe,brown,az
+15019,7314746255,tucson,8500,1939.0,,Plymouth 4door,good,8 cylinders,gas,10000.0,clean,automatic,,rwd,full-size,hatchback,grey,az
+15968,7312402513,tucson,24950,1929.0,ford,sedan,excellent,8 cylinders,gas,4000.0,clean,automatic,A1294112,rwd,mid-size,coupe,yellow,az
+16408,7311402412,tucson,19500,1923.0,buick,touring model,good,4 cylinders,gas,58.0,clean,manual,,rwd,,,,az
+16926,7313370592,yuma,12345,1936.0,chrysler,,,,other,1239494.0,missing,other,,,,,,az
+17077,7306024077,yuma,11500,1928.0,chevrolet,coupe,fair,4 cylinders,gas,55752.0,clean,manual,,,,,yellow,az
+17234,7316139816,fayetteville,1800,1942.0,mercury,sedan,fair,8 cylinders,gas,1.0,clean,manual,,rwd,,sedan,,ar
+19709,7313063088,little rock,13500,1929.0,,Model A,,,gas,10.0,clean,automatic,,,,,,ar
+21143,7303933502,texarkana,15000,1923.0,ford,t-bucket roadster,good,8 cylinders,gas,1000.0,clean,automatic,,rwd,full-size,convertible,custom,ar
+21785,7313777273,bakersfield,17500,1931.0,ford,,,,gas,1300.0,clean,manual,,,,,,ca
+22101,7311726242,bakersfield,12000,1937.0,cadillac,lasalle,,8 cylinders,gas,31000.0,clean,manual,,,,,black,ca
+22267,7310821203,bakersfield,17500,1931.0,ford,,,,gas,1300.0,clean,manual,,,,,,ca
+22556,7308785827,bakersfield,26000,1934.0,ford,pu,excellent,8 cylinders,gas,250.0,clean,automatic,,rwd,,coupe,red,ca
+22567,7308693124,bakersfield,24000,1931.0,ford,coupe,,8 cylinders,gas,100000.0,clean,automatic,,,,,,ca
+22949,7306499519,bakersfield,12500,1932.0,ford,vicky,excellent,8 cylinders,gas,111.0,parts only,automatic,,rwd,,sedan,,ca
+23059,7305849287,bakersfield,25000,1940.0,ford,coupe,excellent,8 cylinders,gas,89.0,clean,automatic,,rwd,,coupe,black,ca
+23367,7303837217,bakersfield,15000,1923.0,,1923 Dort Coupe,good,6 cylinders,gas,22000.0,clean,manual,,rwd,full-size,coupe,black,ca
+23750,7316406341,chico,20000,1930.0,ford,phaeton,,,gas,38000.0,clean,automatic,,,,,blue,ca
+24037,7314092973,chico,8500,1934.0,,Plymouth Coupe,good,8 cylinders,gas,99999.0,clean,automatic,,rwd,,coupe,,ca
+24356,7311423869,chico,17500,1934.0,,Plymouth,good,,gas,1000.0,clean,automatic,,,,,,ca
+25085,7303308745,chico,15000,1935.0,,1935 Austin Nippy,good,4 cylinders,gas,11000.0,clean,manual,,rwd,compact,convertible,black,ca
+25825,7315165568,fresno / madera,35000,1942.0,,1942,like new,8 cylinders,gas,5000.0,clean,automatic,,rwd,full-size,coupe,black,ca
+26196,7314698269,fresno / madera,26500,1940.0,ford,,excellent,8 cylinders,gas,3000.0,clean,automatic,,rwd,full-size,sedan,orange,ca
+26509,7314046371,fresno / madera,24999,1941.0,chevrolet,coupe,,8 cylinders,gas,29000.0,clean,automatic,,,,,,ca
+26712,7313460223,fresno / madera,16000,1918.0,ford,model t,good,4 cylinders,gas,56000.0,clean,automatic,,rwd,full-size,convertible,red,ca
+26740,7313313181,fresno / madera,18000,1936.0,ford,slantbacl,good,,gas,42495.0,clean,manual,,,,,,ca
+27285,7311704186,fresno / madera,16200,1928.0,ford,,excellent,4 cylinders,gas,11000.0,clean,manual,,rwd,compact,coupe,blue,ca
+27344,7311658767,fresno / madera,26500,1940.0,ford,,excellent,8 cylinders,gas,3000.0,clean,automatic,,rwd,full-size,sedan,orange,ca
+27700,7310818851,fresno / madera,17500,1931.0,ford,,,,gas,1300.0,clean,manual,,,,,,ca
+27729,7310683831,fresno / madera,28000,1928.0,ford,fordor,like new,4 cylinders,gas,1000.0,clean,manual,,rwd,,,,ca
+28054,7309325867,fresno / madera,31500,1930.0,ford,coupe,like new,8 cylinders,gas,6444.0,clean,automatic,,rwd,compact,coupe,black,ca
+28374,7314911008,gold country,3500,1935.0,dodge,truck,,,gas,100000.0,clean,manual,,,,,,ca
+28383,7314726132,gold country,7500,1930.0,ford,model a,good,4 cylinders,gas,1234.0,clean,manual,,,,,,ca
+28386,7314676879,gold country,3500,1930.0,dodge,dc8,good,8 cylinders,gas,59000.0,clean,manual,,rwd,full-size,sedan,blue,ca
+28625,7311030793,gold country,7000,1936.0,,Studebaker,,6 cylinders,gas,99999.0,clean,manual,,rwd,full-size,sedan,,ca
+28638,7310743460,gold country,8500,1940.0,ford,f1,,8 cylinders,gas,12345.0,clean,automatic,,,,,,ca
+29135,7316518514,humboldt county,8000,1927.0,,Hupmobile,good,6 cylinders,gas,27500.0,clean,manual,,rwd,mid-size,sedan,white,ca
+29545,7314969302,imperial county,45000,1942.0,chevrolet,,good,,gas,150000.0,clean,manual,,,,,,ca
+30281,7316343438,inland empire,8500,1939.0,chrysler,royal,good,,gas,1000.0,clean,automatic,,,,,,ca
+30353,7316220093,inland empire,10900,1939.0,ford,pickup,,,gas,1000.0,clean,manual,,,,,,ca
+30377,7316181315,inland empire,16000,1940.0,,willys,good,,gas,1.0,missing,other,,rwd,,,black,ca
+30471,7315987944,inland empire,2650,1935.0,dodge,pickup,fair,other,gas,100000.0,missing,manual,,rwd,full-size,,green,ca
+30546,7315898720,inland empire,89000,1932.0,ford,5 window coupe,,,gas,200.0,clean,manual,,,,,,ca
+30698,7315620808,inland empire,32500,1937.0,ford,coupe,,,gas,875.0,clean,automatic,,,,,,ca
+30731,7315579342,inland empire,13500,1932.0,pontiac,deluxe,good,6 cylinders,gas,99999.0,clean,manual,,rwd,mid-size,,black,ca
+30810,7315535565,inland empire,45000,1932.0,ford,model b,excellent,8 cylinders,gas,20000.0,clean,automatic,,,,,,ca
+31249,7315157011,inland empire,11000,1939.0,chevrolet,master deluxe,fair,,gas,1939.0,clean,manual,,,,,,ca
+31885,7314559719,inland empire,33000,1931.0,ford,roasdster,good,,gas,5100.0,clean,automatic,,,,,,ca
+32139,7314357180,inland empire,18000,1940.0,ford,coupe,,,gas,10.0,clean,other,,,,,,ca
+32507,7313876669,inland empire,23500,1940.0,ford,pickup truck,fair,8 cylinders,gas,20000.0,clean,automatic,,rwd,mid-size,pickup,grey,ca
+32841,7316865625,los angeles,22000,1940.0,,Plymouth PT 105 Pickup,,,gas,1000.0,clean,manual,,,,,,ca
+33440,7316578599,los angeles,3500,1940.0,cadillac,,,,gas,4000000.0,salvage,manual,,,,,,ca
+34143,7316287227,los angeles,32500,1932.0,ford,coupe,new,8 cylinders,gas,50.0,missing,manual,,fwd,mid-size,coupe,silver,ca
+35877,7303598601,mendocino county,8000,1924.0,ford,,,,gas,5000.0,missing,manual,,,,,,ca
+36649,7316787048,modesto,20000,1938.0,pontiac,silver streak,like new,8 cylinders,gas,0.0,clean,automatic,,rwd,full-size,sedan,custom,ca
+36807,7316220875,modesto,32500,1940.0,,1940 LASALLE,excellent,8 cylinders,gas,82269.0,clean,manual,,rwd,full-size,coupe,red,ca
+36944,7315558333,modesto,85000,1939.0,chevrolet,,excellent,8 cylinders,gas,9850.0,clean,automatic,,rwd,full-size,coupe,yellow,ca
+37254,7314881934,modesto,16000,1935.0,,1935 Plymouth sedan,good,6 cylinders,gas,45000.0,clean,manual,,rwd,full-size,sedan,black,ca
+37419,7314045257,modesto,24999,1941.0,chevrolet,coupe,,8 cylinders,gas,29000.0,clean,automatic,,,,,,ca
+38626,7308606358,modesto,12500,1927.0,ford,model t roadster,excellent,8 cylinders,gas,3000.0,clean,manual,,rwd,,,red,ca
+38667,7308481035,modesto,18000,1928.0,ford,model a,,4 cylinders,gas,34000.0,clean,manual,,,compact,convertible,yellow,ca
+39141,7306520101,modesto,16000,1927.0,ford,,good,,gas,66000.0,clean,manual,,,,,,ca
+40278,7310184983,monterey bay,19999,1929.0,ford,roadster pickup,good,,gas,11111.0,clean,automatic,,,,,black,ca
+40469,7307855486,monterey bay,41000,1937.0,ford,,excellent,8 cylinders,gas,24000.0,clean,automatic,,rwd,,coupe,custom,ca
+40671,7305351631,monterey bay,49500,1934.0,ford,5 window coupe,excellent,8 cylinders,gas,11111.0,clean,manual,,rwd,full-size,coupe,brown,ca
+40761,7304315821,monterey bay,39000,1934.0,dodge,drxx,new,8 cylinders,gas,1900.0,clean,automatic,,rwd,compact,coupe,blue,ca
+40923,7302450799,monterey bay,29000,1939.0,ford,hotrod,like new,8 cylinders,gas,1000.0,clean,automatic,,rwd,compact,other,green,ca
+42375,7315166659,orange county,99500,1929.0,lincoln,model l roadster,excellent,8 cylinders,gas,100.0,clean,manual,,,,convertible,,ca
+42454,7315088892,orange county,38250,1900.0,acura,rdx,new,4 cylinders,gas,4500.0,clean,automatic,,4wd,mid-size,SUV,silver,ca
+42782,7314604711,orange county,25000,1931.0,ford,model a roadster,excellent,4 cylinders,gas,43.0,clean,manual,,rwd,mid-size,convertible,blue,ca
+43225,7314106160,orange county,28500,1937.0,chevrolet,,,,gas,98000.0,clean,automatic,,,,,,ca
+43342,7313990517,orange county,19950,1929.0,ford,a,like new,4 cylinders,gas,50000.0,clean,manual,,rwd,mid-size,sedan,brown,ca
+43349,7313982821,orange county,7500,1926.0,ford,t,good,4 cylinders,gas,123456.0,clean,manual,,rwd,mid-size,convertible,black,ca
+43368,7313966664,orange county,23500,1929.0,ford,model a,excellent,4 cylinders,gas,501.0,clean,manual,A1919359,,,convertible,,ca
+43369,7313965780,orange county,44995,1940.0,mercury,phaeton,excellent,8 cylinders,gas,40745.0,clean,manual,99A254855,,,convertible,,ca
+43371,7313964389,orange county,49995,1936.0,ford,phaeton,excellent,8 cylinders,gas,8432.0,clean,automatic,806099531,,,convertible,,ca
+43651,7313542920,orange county,6500,1927.0,ford,replica,good,8 cylinders,gas,1.0,clean,automatic,,rwd,mid-size,convertible,black,ca
+43666,7313532001,orange county,25450,1936.0,ford,68,like new,8 cylinders,gas,50000.0,clean,manual,,rwd,full-size,sedan,blue,ca
+43684,7313512736,orange county,60000,1940.0,mercury,coupe,excellent,8 cylinders,gas,48000.0,clean,manual,,fwd,full-size,coupe,green,ca
+43821,7313333413,orange county,15500,1923.0,,Paige,good,8 cylinders,gas,300.0,clean,automatic,,rwd,full-size,other,custom,ca
+44499,7313546825,palm springs,43000,1932.0,ford,roadster,excellent,8 cylinders,gas,8000.0,clean,manual,,rwd,full-size,,black,ca
+45204,7308464934,palm springs,39950,1940.0,gmc,1 1/2 ton,,,gas,0.0,clean,automatic,AC30310670,,,pickup,green,ca
+45737,7303433429,palm springs,19900,1941.0,,PACKARD 0NE TWENTY,excellent,8 cylinders,gas,0.0,clean,manual,D3040270000000000,,,sedan,,ca
+46681,7312956589,redding,16500,1938.0,dodge,brothers,good,8 cylinders,gas,3500.0,clean,automatic,,rwd,full-size,coupe,black,ca
+47049,7310574546,redding,9000,1930.0,ford,,good,other,gas,10.0,clean,manual,,,,,,ca
+47285,7308331876,redding,15000,1936.0,,1936 International,excellent,8 cylinders,gas,10000.0,clean,automatic,,rwd,sub-compact,pickup,red,ca
+47312,7308275339,redding,15690,1941.0,chevrolet,,good,8 cylinders,gas,1941.0,clean,automatic,,rwd,full-size,,yellow,ca
+47880,7305166159,redding,23500,1940.0,,Plymouth Coupe,good,6 cylinders,gas,99999.0,clean,automatic,,rwd,mid-size,coupe,orange,ca
+47933,7304751013,redding,15690,1941.0,chevrolet,,good,8 cylinders,gas,1941.0,clean,automatic,,rwd,full-size,,yellow,ca
+48270,7302953917,redding,35000,1932.0,ford,roadster,excellent,8 cylinders,gas,500.0,clean,automatic,,rwd,,convertible,green,ca
+48277,7302788365,redding,10000,1939.0,,packard,fair,6 cylinders,gas,1547.0,missing,manual,,rwd,full-size,sedan,grey,ca
+48603,7316557262,reno / tahoe,18999,1928.0,ford,model a tudor,good,4 cylinders,gas,100000.0,clean,manual,,rwd,,coupe,black,ca
+48667,7316448271,reno / tahoe,28000,1942.0,chevrolet,master deluxe,excellent,6 cylinders,gas,12700.0,clean,manual,,rwd,full-size,coupe,blue,ca
+49583,7314278172,reno / tahoe,7000,1930.0,ford,model a,good,4 cylinders,gas,500.0,missing,manual,,rwd,compact,,red,ca
+49691,7314022872,reno / tahoe,22000,1931.0,,1931,,,gas,7500.0,clean,automatic,,,,,,ca
+50690,7311482419,reno / tahoe,5000,1939.0,,Nash Ambassador,fair,,other,12345.0,clean,other,,,,,,ca
+50851,7311050128,reno / tahoe,38500,1937.0,chevrolet,2 door sedan custom,excellent,8 cylinders,gas,500.0,clean,automatic,,rwd,mid-size,sedan,purple,ca
+50878,7310990690,reno / tahoe,15000,1941.0,chevrolet,,good,6 cylinders,gas,40000.0,clean,manual,,rwd,,,yellow,ca
+51003,7310718381,reno / tahoe,7900,1938.0,,Plymouth Coupe,good,8 cylinders,gas,99999.0,clean,automatic,,rwd,mid-size,coupe,green,ca
+51285,7309656690,reno / tahoe,6200,1936.0,dodge,truck,,,gas,1.0,clean,manual,,,,,,ca
+51442,7316853660,sacramento,13500,1927.0,ford,t,like new,4 cylinders,gas,100.0,clean,manual,,rwd,mid-size,sedan,grey,ca
+51475,7316836290,sacramento,35000,1936.0,ford,,,,gas,250.0,clean,manual,,,,,,ca
+51936,7316551211,sacramento,35000,1934.0,ford,coupe,like new,8 cylinders,gas,15000.0,clean,automatic,,rwd,,,yellow,ca
+53441,7315788575,sacramento,16900,1940.0,chevrolet,,good,6 cylinders,gas,50000.0,clean,manual,,rwd,full-size,coupe,custom,ca
+53623,7315611796,sacramento,5500,1929.0,,Bugatti,fair,3 cylinders,gas,1000.0,clean,manual,,,,,white,ca
+53699,7315590016,sacramento,14000,1928.0,dodge,hotrod,good,8 cylinders,gas,2000.0,clean,automatic,,rwd,sub-compact,convertible,black,ca
+53869,7315520204,sacramento,99888,1940.0,ford,sedan,excellent,8 cylinders,gas,46113.0,clean,automatic,185641605,rwd,full-size,sedan,silver,ca
+54732,7316508257,san diego,85000,1913.0,cadillac,touring car,good,4 cylinders,gas,150.0,clean,manual,,rwd,full-size,convertible,black,ca
+54738,7316507530,san diego,21995,1937.0,,1932 Riley Convertible,good,4 cylinders,gas,108.0,clean,manual,,rwd,mid-size,convertible,red,ca
+55560,7315856942,san diego,39995,1932.0,ford,vicky,good,8 cylinders,gas,34300.0,clean,automatic,,rwd,,sedan,custom,ca
+55601,7315834153,san diego,16400,1928.0,dodge,standard,excellent,6 cylinders,gas,1000.0,clean,manual,,,full-size,sedan,,ca
+55964,7315495745,san diego,35000,1942.0,,1942 Plymouth,excellent,8 cylinders,gas,5000.0,clean,automatic,,,,,,ca
+56987,7314886521,san diego,43950,1932.0,ford,tudor coupe,excellent,8 cylinders,gas,4000.0,clean,automatic,18191472,rwd,full-size,coupe,brown,ca
+57275,7316573826,san luis obispo,8500,1941.0,chevrolet,pick-up,good,6 cylinders,gas,111134.0,clean,manual,,,full-size,,red,ca
+57766,7312427754,san luis obispo,33000,1936.0,chevrolet,,,,gas,5.0,clean,automatic,,,,,,ca
+57902,7311304646,san luis obispo,25000,1934.0,,Hudson Terraplane,,8 cylinders,gas,1700.0,clean,automatic,,,,,,ca
+57931,7311051564,san luis obispo,25000,1940.0,,GENERAL MOTORS,,,gas,25000.0,clean,other,,,,,,ca
+57954,7310604277,san luis obispo,33000,1931.0,ford,,excellent,8 cylinders,gas,34000.0,clean,automatic,,rwd,mid-size,coupe,blue,ca
+58008,7309914809,san luis obispo,30000,1916.0,,Scripps-Booth Model C,good,4 cylinders,gas,6008.0,clean,manual,,,compact,,red,ca
+58445,7304781538,san luis obispo,67500,1940.0,ford,deluxe,excellent,8 cylinders,gas,54.0,clean,manual,,fwd,,,black,ca
+59080,7311847241,santa barbara,29000,1937.0,ford,sedan,like new,8 cylinders,gas,26000.0,clean,automatic,,rwd,full-size,sedan,blue,ca
+59220,7310195216,santa barbara,29400,1933.0,ford,pickup,good,8 cylinders,gas,12999.0,clean,automatic,,fwd,compact,truck,red,ca
+59947,7313496374,santa maria,25000,1940.0,,GENERAL MOTORS,,,gas,25000.0,clean,other,,,,,,ca
+60500,7316920462,SF bay area,54932,1932.0,ford,model b custom,,,gas,6526.0,clean,automatic,,,,,,ca
+60929,7316789567,SF bay area,99888,1940.0,ford,sedan,excellent,8 cylinders,gas,46113.0,clean,automatic,185641605,rwd,full-size,sedan,silver,ca
+61295,7316621314,SF bay area,33000,1940.0,ford,,excellent,8 cylinders,gas,1000.0,clean,manual,,rwd,,coupe,black,ca
+61404,7316584307,SF bay area,17500,1930.0,chevrolet,roadster,excellent,8 cylinders,gas,1.0,clean,automatic,,rwd,,pickup,black,ca
+62879,7316227766,SF bay area,65000,1939.0,,Packard Club Opera,excellent,8 cylinders,gas,350.0,rebuilt,manual,,rwd,full-size,coupe,red,ca
+63194,7316064979,SF bay area,18000,1940.0,,1940 LaSalle,excellent,8 cylinders,gas,1000.0,clean,manual,,rwd,,sedan,,ca
+63298,7316004712,SF bay area,28000,1937.0,ford,,,,gas,40000.0,clean,manual,,,,,,ca
+64261,7315033711,stockton,29000,1930.0,ford,model a,good,8 cylinders,gas,1.0,clean,manual,,rwd,full-size,,red,ca
+65327,7310721718,stockton,7900,1938.0,,Plymouth Coupe,good,8 cylinders,gas,99999.0,clean,automatic,,rwd,mid-size,coupe,green,ca
+65368,7310454118,stockton,60000,1941.0,,1941 Willys coupe,excellent,8 cylinders,gas,1100.0,clean,automatic,CA961496,rwd,full-size,coupe,red,ca
+65503,7309654243,stockton,6200,1936.0,dodge,,,,gas,1.0,clean,manual,,,,truck,,ca
+66673,7316549334,ventura county,35000,1931.0,ford,coupe,excellent,8 cylinders,gas,468.0,clean,automatic,,rwd,compact,coupe,black,ca
+66761,7316060407,ventura county,4800,1929.0,ford,model a truck,,,gas,20000.0,missing,manual,,,,,,ca
+68424,7305956198,ventura county,29900,1930.0,ford,model a,excellent,8 cylinders,gas,10600.0,clean,automatic,,rwd,mid-size,sedan,silver,ca
+69180,7315989725,visalia-tulare,20000,1929.0,,1929 Model A Roadster,,,gas,15000.0,clean,automatic,,,,,,ca
+69414,7312992988,visalia-tulare,32000,1940.0,ford,,good,8 cylinders,gas,10000.0,clean,automatic,,,,,black,ca
+69517,7311082322,visalia-tulare,24000,1930.0,chrysler,,excellent,6 cylinders,gas,39768.0,clean,manual,,,,,blue,ca
+69627,7308813819,visalia-tulare,17500,1931.0,ford,,,,gas,1279.0,clean,manual,,,,,,ca
+69785,7306220510,visalia-tulare,35000,1933.0,ford,vicky,excellent,8 cylinders,gas,0.0,clean,automatic,2,rwd,compact,coupe,custom,ca
+70014,7302053259,visalia-tulare,41500,1937.0,ford,,excellent,8 cylinders,gas,8500.0,clean,automatic,,rwd,full-size,sedan,purple,ca
+70199,7316370397,yuba-sutter,39500,1935.0,ford,sedan,excellent,8 cylinders,gas,750.0,clean,automatic,,rwd,mid-size,sedan,yellow,ca
+70262,7315720141,yuba-sutter,29500,1929.0,ford,model a,excellent,4 cylinders,gas,1000.0,clean,manual,,,mid-size,coupe,yellow,ca
+70263,7315719303,yuba-sutter,29500,1929.0,ford,model a,excellent,4 cylinders,gas,1000.0,clean,manual,,,mid-size,coupe,yellow,ca
+71807,7316556477,boulder,85000,1932.0,ford,deuce coupe,like new,8 cylinders,gas,1054.0,clean,automatic,,rwd,mid-size,coupe,black,co
+73717,7312642380,colorado springs,45000,1930.0,ford,roadster,,,gas,999.0,clean,manual,,,,,,co
+74488,7308059462,colorado springs,16500,1940.0,ford,sedan,,,gas,5000.0,clean,other,,,,,,co
+74593,7307244929,colorado springs,11000,1941.0,gmc,army truck,,,gas,50000.0,clean,manual,,,,,,co
+74943,7304510665,colorado springs,9500,1941.0,,mercuryconvertible,good,8 cylinders,gas,1000000.0,clean,automatic,,rwd,full-size,convertible,white,co
+75408,7316929850,denver,24000,1939.0,ford,standard,good,8 cylinders,gas,65000.0,clean,manual,,rwd,mid-size,coupe,black,co
+76151,7316450058,denver,32500,1939.0,chevrolet,shortbed,excellent,8 cylinders,gas,18600.0,clean,automatic,,rwd,full-size,truck,red,co
+77467,7315580673,denver,7250,1941.0,chevrolet,pickup,,,gas,111111.0,clean,manual,,,,,,co
+77587,7315508779,denver,19995,1932.0,,"Pontiac,coupe",excellent,6 cylinders,gas,58000.0,clean,manual,,rwd,mid-size,coupe,brown,co
+77710,7315432694,denver,7500,1936.0,dodge,d2,good,,gas,42000.0,clean,manual,,,,,,co
+78514,7316550232,fort collins / north CO,14000,1931.0,ford,model a,good,4 cylinders,gas,1.0,clean,manual,,rwd,compact,coupe,green,co
+79518,7310319553,fort collins / north CO,7000,1941.0,chevrolet,,,,gas,11111.0,clean,other,,,full-size,coupe,blue,co
+80174,7306698435,fort collins / north CO,54999,1928.0,ford,model a,good,8 cylinders,gas,501.0,clean,automatic,A4310654,rwd,full-size,truck,red,co
+80175,7306698426,fort collins / north CO,54999,1928.0,ford,model a,good,,gas,0.0,clean,automatic,181091280,rwd,,,black,co
+80608,7302816247,fort collins / north CO,25000,1941.0,buick,century,excellent,8 cylinders,gas,55000.0,clean,manual,,rwd,full-size,sedan,black,co
+81476,7305337243,pueblo,11800,1937.0,dodge,d5,excellent,6 cylinders,gas,100.0,clean,manual,,fwd,full-size,sedan,,co
+81478,7305189823,pueblo,18000,1937.0,ford,pickup,,,gas,3000.0,clean,automatic,,,,,,co
+81672,7301889425,pueblo,1500,1940.0,pontiac,,,,gas,5577788.0,missing,other,,,,,,co
+81702,7316782934,western slope,15500,1941.0,chevrolet,business coupe,excellent,6 cylinders,gas,56000.0,clean,manual,,rwd,mid-size,coupe,blue,co
+81877,7314939148,western slope,15000,1942.0,ford,truck,good,8 cylinders,gas,1234567.0,missing,automatic,,rwd,full-size,truck,custom,co
+82279,7311117162,western slope,9750,1943.0,ford,truck,,,gas,8800.0,clean,manual,,,,,,co
+82656,7304759486,western slope,24500,1941.0,chevrolet,,excellent,8 cylinders,gas,12800.0,clean,automatic,WA98189419,rwd,full-size,sedan,custom,co
+82734,7303628073,western slope,29000,1937.0,,Plymouth Sedan,good,8 cylinders,gas,26300.0,clean,automatic,,,,sedan,red,co
+82953,7315269384,eastern CT,37500,1934.0,ford,coupe,,,gas,5600.0,missing,automatic,,,,,,ct
+83083,7312552141,eastern CT,14600,1936.0,ford,,,,gas,386.0,clean,automatic,,,,,,ct
+83235,7308950023,eastern CT,20000,1940.0,ford,deluxe,good,8 cylinders,gas,24212.0,clean,manual,,rwd,full-size,sedan,red,ct
+83427,7302623700,eastern CT,10000,1941.0,gmc,1 1/2 ton truck,,,gas,57390.0,clean,manual,,,,,,ct
+84600,7311311459,hartford,22500,1931.0,ford,sedan,excellent,,gas,100.0,clean,automatic,,,,,,ct
+84616,7311251672,hartford,12500,1929.0,,Model a,good,8 cylinders,gas,99999.0,clean,manual,,,,,black,ct
+84849,7309821572,hartford,47000,1933.0,,Factory Five 33,like new,8 cylinders,gas,3200.0,clean,automatic,,rwd,,coupe,custom,ct
+85431,7305832875,hartford,13500,1927.0,ford,,good,,gas,100000.0,rebuilt,automatic,,,mid-size,sedan,green,ct
+85623,7304470768,hartford,18500,1923.0,ford,t bucket,like new,8 cylinders,gas,2500.0,clean,automatic,,rwd,mid-size,convertible,,ct
+85955,7302164901,hartford,15000,1936.0,buick,special,like new,8 cylinders,gas,43000.0,clean,manual,,,full-size,,black,ct
+86505,7313616793,new haven,35000,1932.0,ford,coupe,excellent,8 cylinders,gas,63000.0,clean,automatic,,rwd,full-size,coupe,black,ct
+86642,7312303172,new haven,13500,1927.0,ford,t-bucket street rod,good,8 cylinders,gas,95000.0,clean,automatic,,rwd,compact,convertible,purple,ct
+86643,7312302867,new haven,25000,1930.0,ford,model aa 1.5 ton truck,like new,4 cylinders,gas,24000.0,clean,manual,,rwd,full-size,truck,black,ct
+86647,7312274827,new haven,12500,1930.0,,Plymouth,,,gas,22000.0,clean,manual,,,,,,ct
+86648,7312269682,new haven,24000,1931.0,ford,,like new,4 cylinders,gas,88000.0,clean,manual,,,,,,ct
+86803,7310864202,new haven,14000,1941.0,ford,,good,8 cylinders,gas,5000.0,clean,manual,,rwd,full-size,,red,ct
+87456,7303810505,new haven,10000,1940.0,,Packard 120 Model 1801,fair,8 cylinders,gas,58000.0,clean,manual,,rwd,full-size,sedan,black,ct
+87756,7314128540,northwest CT,9500,1934.0,,34 Tudor,excellent,other,other,9999999.0,parts only,other,,rwd,,,blue,ct
+88044,7302223900,northwest CT,19000,1931.0,,1931 model a pu truck wide body,excellent,4 cylinders,gas,100.0,clean,manual,,rwd,,pickup,blue,ct
+88699,7315958790,"washington, DC",10000,1934.0,ford,,,,other,1000.0,missing,other,,,,,,dc
+92985,7308156559,daytona beach,16000,1929.0,ford,model a,good,4 cylinders,gas,1000.0,clean,manual,,rwd,,truck,green,fl
+93640,7314953068,florida keys,33950,1935.0,ford,2dr sedan,,,gas,0.0,clean,automatic,181819073,,,,,fl
+93994,7316338259,ft myers / SW florida,39500,1930.0,ford,coupe,excellent,8 cylinders,gas,17000.0,clean,automatic,,rwd,,coupe,red,fl
+95431,7310794377,ft myers / SW florida,22500,1926.0,ford,roadster pickup,excellent,,gas,30000.0,clean,manual,,,,convertible,black,fl
+95757,7309159171,ft myers / SW florida,53500,1939.0,ford,roadster,excellent,8 cylinders,gas,1800.0,clean,automatic,,rwd,,,,fl
+96241,7306470205,ft myers / SW florida,63000,1941.0,lincoln,continental,like new,8 cylinders,gas,1000.0,clean,automatic,,rwd,full-size,coupe,red,fl
+96834,7315870942,gainesville,29000,1934.0,,plymouth coupe,excellent,8 cylinders,gas,1000.0,clean,manual,,rwd,,coupe,,fl
+96973,7314433401,gainesville,39900,1933.0,,Plymouth Sedan,excellent,8 cylinders,gas,35000.0,clean,automatic,,rwd,full-size,sedan,,fl
+98179,7316010822,jacksonville,2200,1923.0,ford,,,,gas,1.0,missing,other,,,,,,fl
+99007,7313298399,jacksonville,35000,1935.0,,Plymouth,excellent,,gas,11111.0,clean,automatic,,,,,purple,fl
+99560,7311067569,jacksonville,38000,1929.0,,Graham Paige Sedan,excellent,8 cylinders,gas,40000.0,clean,automatic,,rwd,,,,fl
+100325,7307839487,jacksonville,9300,1940.0,,buic eight,good,8 cylinders,gas,8000.0,clean,automatic,,rwd,full-size,,black,fl
+101984,7310780008,north central FL,14000,1937.0,chevrolet,truck,excellent,8 cylinders,gas,25000.0,clean,automatic,,rwd,full-size,truck,black,fl
+102328,7315124758,ocala,14900,1931.0,ford,model a,excellent,,gas,11010.0,clean,manual,,,,,,fl
+102378,7314889961,ocala,18999,1930.0,ford,,excellent,4 cylinders,gas,1.0,clean,manual,,,,coupe,black,fl
+103156,7308727518,ocala,36000,1938.0,buick,special,,8 cylinders,gas,5403.0,clean,automatic,,rwd,full-size,sedan,red,fl
+103231,7307860178,ocala,9495,1940.0,buick,eight,good,8 cylinders,gas,8000.0,clean,automatic,,4wd,full-size,sedan,black,fl
+103382,7306824205,ocala,35000,1934.0,ford,,excellent,,gas,700.0,clean,automatic,,,,,,fl
+103396,7306726485,ocala,35000,1934.0,ford,,excellent,,gas,700.0,clean,automatic,,,,,,fl
+103941,7316664469,okaloosa / walton,9500,1927.0,chrysler,60 series,excellent,6 cylinders,gas,12345.0,clean,manual,,rwd,full-size,sedan,custom,fl
+104774,7315681488,orlando,14900,1931.0,ford,model a,excellent,,gas,11010.0,clean,manual,,,,,,fl
+105119,7315098520,orlando,14900,1931.0,ford,model a,excellent,,gas,11010.0,clean,manual,,,,,,fl
+105712,7314302649,orlando,19500,1938.0,chevrolet,coupe,good,8 cylinders,gas,2160.0,clean,automatic,6HB12780700000000,4wd,full-size,coupe,yellow,fl
+105847,7314119008,orlando,28500,1937.0,chevrolet,coupe,,,gas,88000.0,clean,automatic,,,,,,fl
+105865,7314085380,orlando,36500,1938.0,chevrolet,,like new,8 cylinders,gas,23000.0,clean,automatic,,,mid-size,,purple,fl
+106118,7313645667,orlando,55500,1930.0,ford,model a,new,8 cylinders,gas,100.0,clean,automatic,,rwd,full-size,other,green,fl
+107829,7307436422,pensacola,7500,1938.0,ford,deluxe,salvage,8 cylinders,gas,60000.0,clean,manual,,,full-size,sedan,,fl
+110049,7308362629,sarasota-bradenton,37777,1939.0,ford,delivery panel truck,like new,8 cylinders,gas,1200.0,clean,manual,,rwd,full-size,truck,yellow,fl
+112711,7315292785,south florida,24995,1927.0,ford,roadster,like new,8 cylinders,gas,9047.0,clean,automatic,,rwd,compact,convertible,red,fl
+112772,7315259166,south florida,54980,1932.0,ford,cabriolet,,,gas,7608.0,clean,automatic,,,,convertible,orange,fl
+113111,7314956191,south florida,63000,1941.0,lincoln,continental,excellent,8 cylinders,gas,1000.0,clean,automatic,,rwd,full-size,coupe,red,fl
+113994,7316333263,space coast,22950,1937.0,,Diamler Stright Eight,excellent,8 cylinders,gas,20000.0,clean,automatic,,rwd,full-size,sedan,grey,fl
+114076,7315423740,space coast,8700,1939.0,dodge,2dr sedan,,6 cylinders,gas,59000.0,clean,manual,,rwd,,,,fl
+114294,7313607595,space coast,36500,1938.0,chevrolet,,like new,8 cylinders,gas,23000.0,clean,automatic,,,,sedan,purple,fl
+114301,7313488182,space coast,33900,1934.0,ford,roadster,excellent,8 cylinders,gas,500.0,clean,automatic,,,,,black,fl
+114407,7312637208,space coast,69500,1928.0,cadillac,coupe,good,8 cylinders,gas,9.0,clean,other,,rwd,full-size,coupe,red,fl
+114618,7310524809,space coast,29000,1933.0,ford,3 window pro street coupe,like new,8 cylinders,gas,2500.0,clean,automatic,,rwd,,coupe,black,fl
+114704,7309276207,space coast,26000,1935.0,buick,2 door street rod,excellent,8 cylinders,gas,444.0,clean,automatic,,rwd,,,purple,fl
+115441,7309552768,st augustine,39900,1933.0,ford,,excellent,,gas,12345.0,clean,automatic,,,,,,fl
+115499,7306192702,st augustine,39900,1933.0,ford,,excellent,,gas,12345.0,clean,automatic,,,,,,fl
+115535,7304319318,st augustine,22000,1940.0,chevrolet,deluxe,,,gas,8201.0,clean,automatic,,,,,,fl
+115586,7301890005,st augustine,6800,1924.0,ford,,,,gas,100000.0,clean,manual,,,,,,fl
+115661,7315315140,tallahassee,19000,1935.0,ford,tudor,excellent,8 cylinders,gas,88000.0,clean,manual,,rwd,full-size,sedan,blue,fl
+116010,7309426164,tallahassee,59999,1937.0,,willys coupe,like new,8 cylinders,gas,1233.0,clean,automatic,,rwd,full-size,coupe,purple,fl
+116840,7316291472,tampa bay area,32500,1932.0,ford,roadster,new,8 cylinders,gas,50.0,parts only,manual,,fwd,mid-size,coupe,silver,fl
+118440,7314082580,tampa bay area,36500,1938.0,chevrolet,,like new,8 cylinders,gas,23000.0,clean,automatic,,,,,purple,fl
+120263,7305324047,treasure coast,22500,1932.0,ford,,good,8 cylinders,gas,10000.0,clean,automatic,,rwd,compact,coupe,black,fl
+121532,7316714293,atlanta,39900,1940.0,ford,sedan,excellent,8 cylinders,gas,6452.0,clean,automatic,,rwd,full-size,sedan,custom,ga
+121750,7316495465,atlanta,20900,1937.0,buick,series 40,excellent,8 cylinders,gas,20320.0,clean,automatic,,rwd,,,silver,ga
+123023,7315234217,atlanta,4500,1900.0,,cushman white van,excellent,,gas,2136.0,clean,manual,,,,,white,ga
+124534,7305323891,augusta,42900,1940.0,chevrolet,special deluxe,excellent,8 cylinders,gas,8070.0,clean,automatic,,rwd,,coupe,red,ga
+129381,7314860419,hawaii,70000,1932.0,ford,truck,excellent,8 cylinders,gas,75.0,clean,automatic,1813404,rwd,,truck,brown,hi
+129848,7314189856,hawaii,40000,1932.0,ford,roadster,good,8 cylinders,gas,21220.0,rebuilt,automatic,,rwd,compact,coupe,black,hi
+130429,7313515356,hawaii,35000,1930.0,ford,coupe,excellent,8 cylinders,gas,12345.0,clean,automatic,,,,,,hi
+131259,7315823161,boise,29900,1937.0,chevrolet,,like new,8 cylinders,gas,9904.0,clean,automatic,,rwd,full-size,sedan,purple,id
+131786,7315040417,boise,31500,1935.0,chevrolet,coupe,like new,6 cylinders,gas,80222.0,clean,manual,,rwd,full-size,coupe,grey,id
+133651,7314209446,east idaho,17400,1929.0,dodge,da coupe,good,6 cylinders,gas,120.0,clean,manual,,rwd,,coupe,blue,id
+134232,7306731980,east idaho,22000,1927.0,ford,roadster,excellent,8 cylinders,gas,999999.0,clean,automatic,,rwd,,other,black,id
+134738,7311682624,lewiston / clarkston,14000,1941.0,chevrolet,pickup,excellent,,gas,0.0,clean,manual,,,,truck,black,id
+134846,7308667606,lewiston / clarkston,48000,1940.0,ford,opera coupe,like new,8 cylinders,gas,4000.0,clean,manual,,rwd,,coupe,custom,id
+135987,7316760624,spokane / coeur d'alene,14500,1941.0,,Studebaker Champion,excellent,6 cylinders,gas,30000.0,clean,automatic,,,,,,id
+136713,7315617341,spokane / coeur d'alene,24500,1936.0,chevrolet,sedan,excellent,8 cylinders,gas,4000.0,clean,automatic,,rwd,full-size,sedan,green,id
+137065,7315141684,spokane / coeur d'alene,6500,1941.0,chevrolet,pickup,good,8 cylinders,gas,10000.0,clean,automatic,,rwd,,pickup,black,id
+137262,7314952958,spokane / coeur d'alene,32950,1940.0,chevrolet,special deluxe,,,gas,0.0,clean,automatic,3KA1213043,,,coupe,,id
+137263,7314952953,spokane / coeur d'alene,33950,1935.0,ford,2dr sedan,,,gas,0.0,clean,automatic,181819073,,,,,id
+137264,7314952850,spokane / coeur d'alene,39950,1940.0,ford,coupe,,,gas,0.0,clean,automatic,S02897KAN,,,coupe,,id
+137266,7314952523,spokane / coeur d'alene,47950,1930.0,ford,tudor,,,gas,0.0,clean,automatic,A3472996,,,wagon,red,id
+138378,7313457132,spokane / coeur d'alene,31950,1940.0,ford,tudor,,,gas,0.0,clean,manual,185855340,,,convertible,,id
+139443,7315006175,bloomington-normal,3000,1937.0,dodge,,fair,6 cylinders,gas,100.0,salvage,manual,,rwd,,,blue,il
+139683,7314423725,champaign urbana,6000,1941.0,pontiac,chiefton,,8 cylinders,gas,1.0,clean,automatic,,rwd,full-size,sedan,grey,il
+139854,7305680847,champaign urbana,6000,1941.0,pontiac,chiefton,,8 cylinders,gas,1.0,clean,automatic,,rwd,full-size,sedan,grey,il
+141203,7315589053,chicago,29999,1939.0,ford,street rod,excellent,8 cylinders,gas,2400.0,clean,automatic,,rwd,,,red,il
+141891,7315011622,chicago,13000,1922.0,ford,,excellent,4 cylinders,gas,999999.0,clean,manual,,rwd,mid-size,coupe,black,il
+142425,7314529516,chicago,29900,1929.0,ford,street rod,,,gas,1.0,clean,automatic,A1371671,,,,,il
+142763,7314134315,chicago,16000,1937.0,,plymouth,good,8 cylinders,gas,9999.0,clean,automatic,,rwd,full-size,sedan,grey,il
+144138,7308510734,"quad cities, IA/IL",10500,1924.0,ford,model t,excellent,4 cylinders,gas,10000.0,clean,other,,rwd,full-size,truck,black,il
+144489,7316024715,rockford,37750,1932.0,ford,model b,,,gas,1700.0,lien,automatic,,,,,,il
+144633,7314172274,rockford,16000,1940.0,chevrolet,coupe,good,8 cylinders,gas,35000.0,clean,automatic,,rwd,full-size,coupe,black,il
+144759,7311888813,rockford,19500,1936.0,ford,sedan,excellent,8 cylinders,gas,68000.0,clean,manual,183080768,rwd,full-size,sedan,green,il
+145388,7302711895,rockford,9000,1930.0,ford,model a,fair,4 cylinders,gas,1.0,clean,manual,,rwd,full-size,coupe,black,il
+145889,7304647058,southern illinois,28000,1941.0,chevrolet,coupe special deluxe,excellent,8 cylinders,gas,28791.0,clean,automatic,,rwd,,coupe,red,il
+146235,7313148632,springfield,22500,1931.0,ford,model a,good,8 cylinders,gas,1500.0,clean,automatic,,rwd,,,white,il
+146989,7316530585,"st louis, MO",43000,1937.0,ford,,like new,8 cylinders,gas,5600.0,clean,automatic,,rwd,full-size,coupe,blue,il
+147909,7314466099,"st louis, MO",4000,1924.0,ford,model tt,good,4 cylinders,gas,100.0,missing,manual,,rwd,,truck,red,il
+148283,7313651064,"st louis, MO",6800,1939.0,pontiac,silver streak,good,8 cylinders,gas,18556.0,clean,automatic,,fwd,full-size,sedan,green,il
+148601,7312922207,"st louis, MO",17750,1937.0,chevrolet,,good,8 cylinders,gas,64843.0,clean,automatic,,,,,yellow,il
+148840,7312150163,"st louis, MO",9000,1929.0,ford,model a,good,4 cylinders,gas,396.0,clean,manual,A942138C,rwd,full-size,coupe,green,il
+149766,7310308317,western IL,59999,1937.0,,willys coupe,like new,8 cylinders,gas,1234.0,clean,automatic,,rwd,mid-size,coupe,purple,il
+150095,7314232482,evansville,24900,1924.0,ford,runabout roadster,like new,4 cylinders,gas,1.0,clean,manual,12081002,rwd,,convertible,black,in
+150290,7306350809,evansville,22999,1939.0,,Olds,excellent,8 cylinders,gas,1232.0,clean,automatic,,rwd,full-size,sedan,green,in
+150336,7304485590,evansville,43000,1937.0,ford,coupe,like new,8 cylinders,gas,6275.0,clean,automatic,,rwd,full-size,coupe,blue,in
+150848,7310632425,fort wayne,13750,1930.0,ford,2 door sedan,excellent,,gas,12345.0,clean,automatic,,,,,,in
+152311,7310957275,indianapolis,44500,1932.0,ford,coupe,excellent,8 cylinders,gas,2400.0,clean,automatic,,,,,,in
+152367,7310622858,indianapolis,48500,1928.0,ford,model a,excellent,8 cylinders,gas,1000.0,clean,automatic,,,,,,in
+152377,7310541415,indianapolis,15500,1929.0,ford,,,,gas,1235734.0,clean,automatic,,,,,,in
+152540,7309286782,indianapolis,38500,1932.0,ford,roadster,excellent,8 cylinders,gas,22000.0,clean,automatic,TITLEDAS32FORD,rwd,,convertible,red,in
+153169,7304476852,indianapolis,6750,1926.0,ford,model t,good,,gas,100.0,clean,manual,,,,,,in
+153378,7302916488,indianapolis,17250,1932.0,chevrolet,coupe,good,6 cylinders,gas,2500.0,clean,manual,3003272,rwd,mid-size,coupe,grey,in
+153389,7302749915,indianapolis,45000,1934.0,chevrolet,tudor sedan,good,8 cylinders,gas,40000.0,clean,automatic,12DA4669634,,,sedan,green,in
+154529,7314584883,south bend / michiana,41500,1931.0,,Plymouth PA Sedan,excellent,,gas,69061.0,clean,manual,,,,,blue,in
+156201,7306417521,cedar rapids,12000,1925.0,,1925 Model TT Dump Truck,excellent,4 cylinders,gas,1.0,clean,manual,,rwd,,truck,black,ia
+156590,7316124102,des moines,13500,1932.0,chevrolet,,,,gas,99999.0,clean,manual,,,,,,ia
+156887,7314611979,des moines,10000,1941.0,,Plymouth 1/2 Ton,fair,6 cylinders,gas,100000.0,clean,manual,,rwd,full-size,pickup,custom,ia
+157083,7313654309,des moines,6800,1939.0,pontiac,silver streak,good,8 cylinders,gas,18556.0,clean,automatic,,fwd,full-size,,green,ia
+159206,7302141261,des moines,18990,1923.0,ford,model t,like new,8 cylinders,gas,6652.0,clean,automatic,,rwd,compact,other,red,ia
+160670,7314992341,omaha / council bluffs,22500,1937.0,ford,,excellent,8 cylinders,gas,300.0,clean,manual,,rwd,,sedan,brown,ia
+161373,7313050772,omaha / council bluffs,22900,1941.0,chevrolet,master deluxe,excellent,6 cylinders,gas,1000.0,clean,manual,,rwd,mid-size,coupe,brown,ia
+161557,7312586976,omaha / council bluffs,42500,1932.0,ford,3 window,new,8 cylinders,gas,312.0,clean,automatic,,rwd,mid-size,coupe,yellow,ia
+161614,7312014872,omaha / council bluffs,4200,1940.0,ford,2door deluxe sedan,good,other,other,1.0,clean,other,185793125,rwd,mid-size,sedan,custom,ia
+162313,7310943036,omaha / council bluffs,37495,1941.0,mercury,convertible,,8 cylinders,gas,0.0,clean,manual,99A443216,rwd,,convertible,blue,ia
+162580,7310195384,omaha / council bluffs,34500,1934.0,ford,,good,8 cylinders,gas,15489.0,clean,automatic,,rwd,mid-size,truck,orange,ia
+164596,7316122725,"kansas city, MO",16500,1931.0,chevrolet,,,,gas,66666.0,clean,manual,,,,,,ks
+164678,7315856125,"kansas city, MO",19500,1927.0,ford,hot rod,good,8 cylinders,gas,2500.0,clean,automatic,,rwd,,convertible,,ks
+165433,7314390836,"kansas city, MO",14950,1923.0,ford,t-bucket,,,gas,15000.0,clean,automatic,,,,,,ks
+165529,7314129658,"kansas city, MO",28500,1937.0,chevrolet,coupe,,,gas,88000.0,clean,automatic,,,,,,ks
+165767,7313649651,"kansas city, MO",6800,1939.0,pontiac,silver streak,fair,8 cylinders,gas,18556.0,clean,automatic,,fwd,full-size,sedan,green,ks
+167464,7306729054,manhattan,48500,1934.0,dodge,sedan,good,8 cylinders,gas,10000.0,clean,automatic,,rwd,mid-size,sedan,blue,ks
+168325,7313153224,topeka,3000,1940.0,,1940 Hudson,fair,6 cylinders,gas,50000.0,missing,manual,,rwd,,,,ks
+168758,7315822063,wichita,12345,1934.0,,MISCELLANEOUS,,,other,99999.0,parts only,other,,,,,,ks
+169573,7310465479,wichita,42500,1937.0,chevrolet,master deluxe,excellent,8 cylinders,gas,22.0,clean,automatic,,,,,,ks
+169920,7306735384,wichita,48500,1934.0,dodge,sedan,good,8 cylinders,gas,10000.0,clean,automatic,,rwd,mid-size,sedan,blue,ks
+170014,7305602693,wichita,14500,1927.0,ford,f-250,like new,4 cylinders,gas,12999.0,clean,manual,,rwd,full-size,truck,black,ks
+170023,7305497843,wichita,12345,1934.0,,MISCELLANEOUS,,,other,99999.0,parts only,other,,,,,,ks
+170620,7306654984,bowling green,22999,1939.0,,Olds,excellent,8 cylinders,gas,1234.0,clean,automatic,,rwd,full-size,sedan,green,ky
+170668,7304677249,bowling green,58500,1933.0,ford,coupe,,,gas,5830.0,clean,automatic,,,,,,ky
+171545,7310974604,lexington,12500,1936.0,chevrolet,sedan 2door,good,4 cylinders,gas,73000.0,clean,automatic,,rwd,full-size,sedan,green,ky
+171546,7310972347,lexington,22500,1936.0,,nash lafayette,,,gas,1.0,clean,automatic,,,,,,ky
+172287,7316526118,louisville,43000,1937.0,ford,coupe,like new,8 cylinders,gas,5600.0,clean,automatic,,rwd,,coupe,blue,ky
+173473,7307176072,louisville,35000,1940.0,pontiac,silver streak,excellent,6 cylinders,gas,64000.0,rebuilt,manual,,rwd,full-size,sedan,custom,ky
+173576,7306760149,louisville,59999,1939.0,,willys coupe,excellent,8 cylinders,gas,1234.0,clean,automatic,,rwd,full-size,coupe,purple,ky
+175057,7305081926,baton rouge,32500,1928.0,ford,model a pickup,good,4 cylinders,gas,90669.0,clean,manual,,rwd,full-size,pickup,custom,la
+175058,7305081289,baton rouge,27500,1930.0,ford,model a coupe,good,4 cylinders,gas,46723.0,missing,manual,,rwd,full-size,coupe,purple,la
+175172,7302623613,baton rouge,27000,1927.0,ford,roadster,good,8 cylinders,gas,60.0,clean,automatic,NCS97571,rwd,compact,other,grey,la
+175812,7314939446,monroe,1500,1927.0,ford,model t,,4 cylinders,gas,123456.0,clean,manual,,rwd,full-size,other,brown,la
+176089,7315124964,new orleans,22500,1941.0,,Chevorlet Cabriolet,good,8 cylinders,gas,500.0,clean,automatic,,rwd,,convertible,custom,la
+176124,7314974561,new orleans,1500,1927.0,ford,model t,,4 cylinders,gas,123456.0,clean,manual,,rwd,full-size,other,brown,la
+176685,7309451879,new orleans,59999,1937.0,,willys coupe,like new,8 cylinders,gas,1234.0,clean,automatic,,rwd,mid-size,coupe,purple,la
+177335,7314968146,shreveport,1500,1927.0,ford,model t,,4 cylinders,gas,123456.0,clean,manual,,rwd,full-size,other,brown,la
+177391,7313054892,shreveport,13000,1931.0,ford,,excellent,4 cylinders,gas,15086.0,clean,manual,,,,,,la
+177791,7316736384,maine,6500,1926.0,ford,model t,excellent,8 cylinders,gas,1000.0,missing,automatic,,rwd,compact,,black,me
+178120,7315258657,maine,37500,1934.0,ford,,,,gas,5600.0,missing,automatic,,,,coupe,,me
+178231,7314952869,maine,39950,1940.0,ford,coupe,,,gas,0.0,clean,automatic,S02897KAN,,,coupe,,me
+178815,7313457144,maine,31950,1940.0,ford,tudor,,,gas,0.0,clean,manual,185855340,,,convertible,,me
+179701,7310572897,maine,18000,1930.0,chevrolet,coupe,excellent,6 cylinders,gas,5600.0,clean,manual,,rwd,full-size,coupe,custom,me
+179715,7310533584,maine,19000,1932.0,chevrolet,,good,8 cylinders,gas,500.0,clean,automatic,,rwd,mid-size,,yellow,me
+180066,7309515399,maine,27000,1930.0,ford,roadster,like new,8 cylinders,gas,54000.0,clean,manual,,rwd,full-size,convertible,blue,me
+180165,7309212174,maine,6445,1929.0,ford,model a,fair,4 cylinders,gas,1223.0,missing,manual,,rwd,,,black,me
+180855,7306981944,annapolis,30000,1935.0,chevrolet,coupe,excellent,8 cylinders,gas,1560.0,clean,automatic,,rwd,,,orange,md
+182172,7311796139,baltimore,21500,1932.0,ford,,excellent,8 cylinders,gas,8000.0,clean,automatic,,rwd,,pickup,black,md
+182609,7309989721,baltimore,10000,1940.0,chevrolet,master 85,good,6 cylinders,gas,68000.0,clean,manual,,rwd,full-size,sedan,brown,md
+183922,7316728866,cumberland valley,12900,1941.0,cadillac,,,,gas,12000.0,clean,automatic,,,,,,md
+184041,7306974743,cumberland valley,14900,1941.0,cadillac,,,,gas,38000.0,clean,automatic,,,,,,md
+184288,7310314980,eastern shore,37000,1937.0,ford,tudor,,8 cylinders,gas,12345.0,clean,automatic,,,,,,md
+184967,7309980532,southern maryland,45000,1934.0,ford,coupe,excellent,8 cylinders,gas,43700.0,clean,automatic,1812094476,rwd,compact,coupe,black,md
+186672,7315266795,boston,37500,1934.0,ford,coupe,,,gas,5600.0,missing,automatic,,,,,,ma
+187280,7314645272,boston,4800,1937.0,,Oldsmobile Sedan,fair,,gas,1000.0,missing,manual,,,full-size,sedan,black,ma
+187375,7314511125,boston,39000,1939.0,chevrolet,,,,gas,25000.0,clean,automatic,,,,,,ma
+188466,7316661101,cape cod / islands,16000,1921.0,ford,speedster,,,gas,100.0,clean,manual,,,,,,ma
+188939,7304469628,cape cod / islands,18500,1923.0,ford,t bucket,new,8 cylinders,gas,2500.0,clean,automatic,,rwd,mid-size,convertible,,ma
+189330,7310967284,south coast,18500,1923.0,ford,model t,excellent,8 cylinders,gas,4963.0,clean,automatic,T7894766,rwd,compact,,red,ma
+189369,7310130746,south coast,30000,1939.0,chevrolet,sedan delivery,excellent,8 cylinders,gas,31000.0,clean,automatic,,rwd,full-size,sedan,red,ma
+189825,7315703816,western massachusetts,24900,1932.0,ford,roadster,excellent,8 cylinders,gas,800.0,clean,automatic,,rwd,full-size,convertible,red,ma
+190149,7313808489,western massachusetts,18000,1939.0,,sedan,,8 cylinders,gas,5330.0,clean,automatic,,fwd,mid-size,sedan,custom,ma
+190163,7313753136,western massachusetts,20000,1938.0,buick,special,excellent,8 cylinders,gas,43850.0,clean,manual,,rwd,full-size,sedan,black,ma
+191109,7306781125,western massachusetts,24995,1930.0,ford,model a 1930,,,gas,40000.0,clean,manual,,,,,,ma
+191351,7304475532,western massachusetts,18500,1923.0,ford,t bucket,like new,8 cylinders,gas,2500.0,clean,automatic,,rwd,mid-size,convertible,,ma
+191590,7302415497,western massachusetts,25000,1932.0,chevrolet,2 door sedan,,,gas,17355.0,clean,manual,,,,,,ma
+191928,7315741848,worcester / central MA,32000,1931.0,ford,,excellent,8 cylinders,gas,2500.0,clean,automatic,,rwd,,,yellow,ma
+192339,7313318612,worcester / central MA,27500,1937.0,ford,convertible,good,,gas,1000.0,clean,manual,,,,,black,ma
+193243,7305317942,worcester / central MA,9500,1931.0,ford,,fair,4 cylinders,gas,99999.0,clean,manual,,,,,,ma
+193319,7304476633,worcester / central MA,18500,1923.0,ford,t-bucket,like new,8 cylinders,gas,2500.0,clean,automatic,,rwd,mid-size,convertible,,ma
+193449,7303456849,worcester / central MA,10000,1930.0,ford,model a convertable,good,4 cylinders,gas,99999.0,clean,manual,,rwd,,convertible,,ma
+194353,7307116978,ann arbor,44900,1937.0,pontiac,hot rod,excellent,8 cylinders,gas,3561.0,clean,automatic,36422,rwd,full-size,sedan,white,mi
+194394,7306501804,ann arbor,12000,1930.0,ford,model a,,,gas,1.0,clean,manual,,,,,,mi
+195367,7315933187,central michigan,13500,1930.0,ford,model a,,,gas,123456.0,clean,manual,,,,,,mi
+195447,7313318343,central michigan,12750,1941.0,chevrolet,coupe,excellent,8 cylinders,gas,5278.0,clean,automatic,,rwd,,,,mi
+195475,7312122796,central michigan,13000,1941.0,chevrolet,coupe,excellent,8 cylinders,gas,5278.0,clean,automatic,,rwd,,,,mi
+196098,7316792046,detroit metro,14500,1930.0,ford,model a,,,gas,1500.0,clean,manual,,,,,,mi
+197550,7314952822,detroit metro,39950,1940.0,ford,coupe,,,gas,0.0,clean,automatic,S02897KAN,,,coupe,,mi
+198622,7313457127,detroit metro,31950,1940.0,ford,tudor,,,gas,0.0,clean,manual,185855340,,,convertible,,mi
+199657,7306472050,flint,25000,1927.0,ford,,good,8 cylinders,gas,1000.0,clean,automatic,,,,convertible,black,mi
+199954,7302396754,flint,9800,1940.0,chevrolet,,fair,8 cylinders,gas,1.0,clean,automatic,,rwd,mid-size,convertible,black,mi
+200270,7316217142,grand rapids,125000,1941.0,,Willys,excellent,8 cylinders,gas,12000.0,clean,automatic,,,,,,mi
+202830,7304297632,grand rapids,40000,1940.0,ford,deluxe,excellent,8 cylinders,gas,75000.0,clean,manual,,rwd,full-size,sedan,custom,mi
+205125,7303932801,kalamazoo,12000,1930.0,chevrolet,coupe,excellent,6 cylinders,gas,999.0,clean,manual,,,,,,mi
+205196,7303274270,kalamazoo,4800,1926.0,dodge,,,,gas,100000.0,clean,manual,,,,,,mi
+205944,7311518732,lansing,31500,1939.0,chevrolet,pickup,excellent,8 cylinders,gas,19300.0,clean,automatic,,rwd,full-size,pickup,red,mi
+206746,7315928938,monroe,13500,1930.0,ford,model a,,,gas,123456.0,clean,manual,,,,,,mi
+207648,7315937020,northern michigan,13500,1930.0,ford,model a,,,gas,12345.0,clean,manual,,,,,,mi
+207822,7312365974,northern michigan,9500,1936.0,dodge,d-2,good,6 cylinders,gas,90000.0,clean,manual,,rwd,mid-size,sedan,blue,mi
+207837,7311880134,northern michigan,2500,1940.0,,PACKARD 110,fair,6 cylinders,gas,40009.0,clean,manual,,rwd,full-size,sedan,black,mi
+209413,7316708414,southwest michigan,19000,1923.0,ford,t - bucket,excellent,8 cylinders,gas,1600.0,clean,automatic,,rwd,,,green,mi
+209440,7315924177,southwest michigan,13500,1930.0,ford,model a pickup,,,gas,123456.0,clean,manual,,,,,,mi
+210546,7316224442,bemidji,9995,1925.0,ford,,good,,gas,15000.0,clean,manual,,,,pickup,black,mn
+211312,7304787462,brainerd,26500,1932.0,ford,hot rod,excellent,6 cylinders,gas,0.0,clean,automatic,,rwd,,sedan,red,mn
+211699,7313370474,duluth / superior,4000,1937.0,chevrolet,1 1/2 ton,fair,6 cylinders,gas,60000.0,missing,manual,,rwd,,truck,,mn
+211806,7310391290,duluth / superior,3000,1942.0,ford,,,,gas,100000.0,clean,manual,,,,,,mn
+211882,7309011209,duluth / superior,5000,1940.0,chevrolet,master deluxe,good,6 cylinders,gas,5000.0,clean,manual,,,,,,mn
+211896,7308715169,duluth / superior,11500,1927.0,ford,model t,,,gas,1000.0,rebuilt,automatic,,,,,,mn
+211901,7308591885,duluth / superior,22500,1929.0,ford,pickup,good,8 cylinders,gas,10000.0,clean,automatic,,rwd,mid-size,pickup,red,mn
+212006,7306078290,duluth / superior,9500,1923.0,ford,model t,good,,gas,1.0,clean,manual,,,,,,mn
+212031,7305618506,duluth / superior,12345,1937.0,,d30 international,,6 cylinders,gas,1111211.0,missing,manual,,rwd,,,,mn
+212049,7305010768,duluth / superior,6400,1921.0,,white,good,,gas,1111.0,clean,manual,,rwd,,,red,mn
+212058,7304689963,duluth / superior,8500,1938.0,dodge,sedan,,6 cylinders,gas,42759.0,clean,manual,,rwd,full-size,sedan,brown,mn
+214336,7316661187,minneapolis / st paul,35000,1928.0,,1928 Pierce Arrow Model 81,excellent,6 cylinders,gas,40000.0,clean,manual,,rwd,full-size,coupe,brown,mn
+214547,7316445546,minneapolis / st paul,13500,1938.0,dodge,d8,good,6 cylinders,gas,87782.0,clean,manual,30071477,rwd,full-size,sedan,,mn
+216272,7315229685,minneapolis / st paul,38000,1932.0,ford,roadster,excellent,8 cylinders,gas,3000.0,clean,automatic,,rwd,,,green,mn
+216281,7315225495,minneapolis / st paul,6500,1929.0,mercedes-benz,benz kit cat,excellent,,gas,10444.0,clean,manual,,rwd,,convertible,grey,mn
+216534,7315036385,minneapolis / st paul,15990,1941.0,ford,deluxe,good,8 cylinders,gas,99999.0,clean,manual,6238113,rwd,full-size,sedan,red,mn
+216782,7313419361,rochester,38500,1934.0,ford,pickup,excellent,8 cylinders,gas,15000.0,clean,automatic,,rwd,,pickup,green,mn
+217319,7316502713,st cloud,6500,1941.0,ford,coe,fair,8 cylinders,gas,9999999.0,missing,manual,,rwd,full-size,pickup,black,mn
+217320,7316498065,st cloud,5500,1939.0,,1939 international,fair,8 cylinders,gas,9999999.0,missing,manual,,rwd,full-size,pickup,green,mn
+217321,7316491619,st cloud,3500,1939.0,,International 1.5 ton,fair,8 cylinders,gas,9999999.0,missing,manual,,rwd,full-size,truck,green,mn
+218504,7314958063,jackson,1500,1927.0,ford,model t,,4 cylinders,gas,123456.0,clean,manual,,rwd,full-size,other,brown,ms
+218666,7306367167,jackson,24500,1937.0,ford,phaeton,good,8 cylinders,gas,15600.0,clean,manual,,rwd,full-size,convertible,brown,ms
+219267,7316627934,columbia / jeff city,11500,1929.0,,Model A,good,4 cylinders,gas,10000.0,clean,manual,,rwd,mid-size,pickup,yellow,mo
+221441,7317018907,springfield,5000,1929.0,ford,model a truck,fair,4 cylinders,gas,1.0,clean,manual,,rwd,full-size,pickup,brown,mo
+221553,7316404539,springfield,36500,1941.0,ford,,good,,gas,50020.0,clean,manual,186560682,,,pickup,green,mo
+221903,7313490381,springfield,11000,1930.0,ford,model a,,,gas,1.0,clean,manual,,,,,,mo
+222476,7308883059,springfield,6000,1923.0,ford,t bucket,,,gas,11.0,missing,automatic,,,,,,mo
+222842,7305482705,springfield,15500,1941.0,chevrolet,pickup,good,8 cylinders,gas,30000.0,clean,automatic,,rwd,full-size,pickup,yellow,mo
+224358,7308847796,billings,5000,1915.0,ford,model t,good,4 cylinders,gas,12345.0,clean,manual,,rwd,,,,mt
+225658,7313055491,bozeman,22500,1936.0,ford,,,8 cylinders,gas,91050.0,clean,manual,,,,sedan,black,mt
+226898,7311191079,great falls,4000,1935.0,dodge,,,,gas,12345.0,clean,manual,,,,,,mt
+227311,7311605663,helena,6000,1929.0,mercedes-benz,,good,4 cylinders,gas,4866.0,clean,manual,,,compact,coupe,custom,mt
+228364,7302807828,kalispell,57500,1940.0,ford,pickup,,,gas,1.0,clean,automatic,,,,,,mt
+229443,7306781849,missoula,85000,1934.0,,Plymouth,,,gas,100.0,clean,automatic,,,,,,mt
+229473,7306401712,missoula,7500,1941.0,,1941,,8 cylinders,gas,9000.0,clean,automatic,,,,,,mt
+230885,7305866457,asheville,17800,1932.0,,Austin American Bantam 1932,excellent,4 cylinders,gas,30000.0,clean,manual,,rwd,compact,convertible,brown,nc
+232428,7314771774,charlotte,37500,1938.0,chevrolet,,,,gas,6000.0,clean,automatic,,,,,,nc
+232836,7313728379,charlotte,43000,1935.0,ford,five window coupe,excellent,8 cylinders,gas,24500.0,clean,automatic,,rwd,,coupe,red,nc
+232984,7313255612,charlotte,15000,1929.0,ford,model a,,,gas,500.0,clean,manual,,,,,,nc
+233175,7312480359,charlotte,25000,1930.0,ford,,excellent,,gas,5300.0,clean,manual,,,,,,nc
+233492,7311439856,charlotte,7900,1938.0,jaguar,ss100,good,4 cylinders,gas,1000.0,clean,manual,R9726VA,rwd,compact,convertible,brown,nc
+233754,7310814454,charlotte,3500,1942.0,jeep,willys,,,gas,50000.0,clean,manual,,,,,,nc
+234050,7309521587,charlotte,13000,1931.0,ford,,good,4 cylinders,gas,100.0,clean,manual,,rwd,full-size,truck,blue,nc
+234534,7307735161,charlotte,2900,1941.0,cadillac,,fair,8 cylinders,gas,84500.0,clean,manual,,rwd,,sedan,grey,nc
+234787,7314139827,eastern NC,28500,1937.0,chevrolet,coupe,,,gas,88000.0,clean,automatic,,,,,,nc
+234855,7312996780,eastern NC,10500,1937.0,jaguar,roadster,excellent,4 cylinders,gas,22000.0,clean,automatic,,rwd,compact,convertible,white,nc
+235545,7315977241,fayetteville,32500,1934.0,chevrolet,3-window coupe,excellent,8 cylinders,gas,50000.0,clean,manual,,rwd,,coupe,white,nc
+237521,7310844024,greensboro,26500,1930.0,ford,,like new,8 cylinders,gas,2500.0,clean,manual,,rwd,mid-size,,silver,nc
+238741,7314771057,hickory / lenoir,37500,1938.0,chevrolet,,,,gas,6000.0,clean,automatic,,,,,,nc
+238827,7313480743,hickory / lenoir,26500,1936.0,ford,coupe,excellent,8 cylinders,gas,44866.0,clean,manual,,rwd,full-size,coupe,blue,nc
+238850,7312969492,hickory / lenoir,16500,1930.0,ford,,good,4 cylinders,gas,100.0,clean,manual,,rwd,full-size,sedan,brown,nc
+239130,7307748125,hickory / lenoir,16500,1930.0,ford,,good,4 cylinders,gas,100.0,clean,manual,,rwd,mid-size,sedan,brown,nc
+240136,7317013542,outer banks,25500,1927.0,chevrolet,capitol coupe,like new,4 cylinders,gas,13000.0,clean,manual,,rwd,,coupe,green,nc
+240305,7316742648,raleigh / durham / CH,3900,1936.0,,international,good,,other,0.0,clean,other,,,,,,nc
+240554,7316159773,raleigh / durham / CH,75000,1932.0,ford,coupe,,,gas,1800.0,clean,automatic,,,,,,nc
+241086,7314772504,raleigh / durham / CH,37500,1938.0,chevrolet,,,,gas,6000.0,clean,automatic,,,,,,nc
+243509,7311177315,wilmington,29999,1938.0,,Plymouth Buisness Coupe,excellent,8 cylinders,gas,1600.0,clean,automatic,,rwd,mid-size,coupe,green,nc
+244688,7309017430,winston-salem,8500,1941.0,chevrolet,,fair,6 cylinders,gas,78000.0,salvage,manual,,rwd,full-size,van,brown,nc
+244932,7304927710,winston-salem,18000,1931.0,ford,,like new,,gas,2400.0,clean,manual,,,,,,nc
+245785,7305736108,lincoln,48500,1934.0,dodge,sedan,good,8 cylinders,gas,10000.0,clean,automatic,,rwd,mid-size,sedan,blue,ne
+246519,7316774556,las vegas,29495,1939.0,ford,other,excellent,,gas,0.0,clean,manual,4T853289331938FORD,,,,orange,nv
+246652,7316467711,las vegas,6800,1945.0,,willies MB,fair,6 cylinders,gas,2.0,clean,manual,,4wd,,,blue,nv
+246892,7316064335,las vegas,8000,1941.0,,41 studebaker champian,good,,gas,1111.0,clean,other,,,,,,nv
+246895,7316053477,las vegas,42000,1940.0,,40 Willys Pro Street,excellent,8 cylinders,gas,4000.0,clean,automatic,,rwd,mid-size,pickup,white,nv
+247121,7315589307,las vegas,29995,1923.0,ford,t bucket,excellent,8 cylinders,gas,3700.0,clean,automatic,N11020513PX,,compact,,red,nv
+247203,7315491462,las vegas,35000,1942.0,,1942 Plymouth,excellent,8 cylinders,gas,5000.0,clean,automatic,,rwd,,,,nv
+247352,7315263317,las vegas,54980,1932.0,ford,cabriolet,,,gas,7608.0,clean,automatic,,,,convertible,orange,nv
+247380,7315211563,las vegas,39980,1934.0,pontiac,2 door sedan,,,gas,44503.0,clean,manual,,,,sedan,custom,nv
+248011,7314410583,las vegas,29495,1939.0,ford,other,excellent,,gas,0.0,clean,manual,4T853289331938FORD,,,,orange,nv
+248177,7314138297,las vegas,28500,1937.0,chevrolet,coupe,,,gas,88000.0,clean,automatic,,,,,,nv
+248732,7313116997,las vegas,29495,1939.0,ford,other,excellent,,gas,0.0,clean,manual,4T853289331938FORD,,,,orange,nv
+249529,7316651573,central NJ,14500,1931.0,ford,model a,good,,gas,23000.0,clean,manual,,,full-size,pickup,black,nj
+251093,7310384572,central NJ,25000,1926.0,ford,t bucket,,,gas,2500.0,clean,automatic,,,,,,nj
+251522,7308672776,central NJ,5000,1941.0,,Packard 110 sedan,good,6 cylinders,gas,58185.0,clean,manual,,rwd,full-size,sedan,,nj
+252331,7316554378,jersey shore,30000,1923.0,ford,t-bucket,like new,8 cylinders,gas,4400.0,clean,automatic,,rwd,,,red,nj
+252746,7309880750,jersey shore,23995,1931.0,ford,model a,,,gas,70000.0,clean,manual,,,,,,nj
+252796,7309020305,jersey shore,15700,1931.0,ford,model a,good,4 cylinders,gas,17700.0,clean,manual,,rwd,,coupe,,nj
+253018,7304191157,jersey shore,46000,1932.0,,fprd,like new,8 cylinders,gas,4600.0,clean,automatic,,rwd,full-size,coupe,grey,nj
+253220,7316847477,north jersey,14500,1930.0,ford,,,,gas,12234.0,clean,manual,,,,,,nj
+254465,7314155033,north jersey,24900,1929.0,ford,model a hiboy,like new,8 cylinders,gas,12500.0,clean,manual,,rwd,compact,convertible,orange,nj
+254509,7314045357,north jersey,25000,1926.0,ford,model a,,,gas,123234.0,clean,automatic,,,,,,nj
+255096,7312511140,north jersey,18000,1931.0,ford,model a roadster,good,8 cylinders,gas,0.0,clean,automatic,,rwd,mid-size,coupe,black,nj
+255365,7311671545,north jersey,34250,1934.0,ford,roadster,excellent,8 cylinders,gas,8713.0,clean,automatic,1057900334,fwd,mid-size,convertible,blue,nj
+256275,7316382695,south jersey,15000,1923.0,ford,model t,excellent,8 cylinders,gas,1000.0,clean,automatic,,rwd,,,black,nj
+256661,7314783786,south jersey,15500,1940.0,ford,deluxe custom,excellent,8 cylinders,gas,3500.0,clean,manual,,,,sedan,custom,nj
+260162,7314636544,albuquerque,28500,1932.0,ford,roadster,like new,8 cylinders,gas,9500.0,clean,automatic,,,,convertible,white,nm
+260341,7314164391,albuquerque,12500,1927.0,chevrolet,,good,4 cylinders,gas,46000.0,clean,manual,,,,,blue,nm
+260349,7314130772,albuquerque,28500,1937.0,chevrolet,coupe,,,gas,88000.0,clean,automatic,,,,,,nm
+260454,7313810791,albuquerque,12500,1931.0,chevrolet,,,,gas,55000.0,missing,manual,,,,,,nm
+261204,7311727270,albuquerque,15000,1928.0,chevrolet,4x4 pickup,like new,6 cylinders,gas,68000.0,clean,manual,,4wd,full-size,pickup,green,nm
+261228,7311675856,albuquerque,34980,1937.0,ford,roadster,,,gas,17706.0,clean,automatic,,,,convertible,black,nm
+261698,7310665702,albuquerque,4500,1928.0,ford,truck,good,,gas,888888.0,missing,other,,,,,,nm
+261786,7310318376,albuquerque,5000,1937.0,,1937 Plymouth,good,6 cylinders,gas,58000.0,clean,manual,,rwd,full-size,sedan,,nm
+261849,7310174396,albuquerque,37000,1929.0,ford,5 window coupe,,,gas,36000.0,clean,automatic,,,,,,nm
+262058,7305477524,clovis / portales,22500,1923.0,ford,t-bucket,,8 cylinders,gas,12345.0,clean,automatic,,,,,,nm
+262127,7316182419,farmington,8500,1930.0,,AA,,,gas,11.0,clean,manual,,,,,,nm
+262190,7307658942,farmington,8500,1930.0,,AA,,,gas,93000.0,clean,manual,,,,,,nm
+262648,7312491203,roswell / carlsbad,18500,1929.0,,1929 Ford.,excellent,4 cylinders,gas,52170.0,clean,manual,,rwd,full-size,sedan,,nm
+263157,7308978498,santa fe / taos,13000,1939.0,,1939 Federal Truck,,,gas,69888.0,clean,manual,,,,pickup,,nm
+263293,7306295430,santa fe / taos,22000,1939.0,,STUDEBAKER STREET ROD,excellent,8 cylinders,gas,2000.0,clean,automatic,,rwd,mid-size,truck,black,nm
+264091,7313425682,albany,18500,1930.0,ford,model a tudor,excellent,8 cylinders,gas,2100.0,clean,automatic,,rwd,,,yellow,ny
+264207,7312775594,albany,11500,1936.0,chevrolet,2 door,good,8 cylinders,gas,400.0,clean,automatic,,rwd,full-size,sedan,black,ny
+264209,7312754713,albany,27000,1934.0,chevrolet,sedan,excellent,8 cylinders,gas,6000.0,clean,manual,,rwd,full-size,sedan,black,ny
+264857,7308339837,albany,23500,1941.0,ford,coupe,excellent,8 cylinders,gas,60000.0,clean,manual,0FAD61C9,rwd,,coupe,black,ny
+265424,7304728489,albany,27000,1934.0,chevrolet,sedan,excellent,8 cylinders,gas,6000.0,clean,manual,,rwd,full-size,sedan,black,ny
+265454,7304465527,albany,18500,1923.0,ford,t-bucket,excellent,8 cylinders,gas,2500.0,clean,automatic,,rwd,full-size,convertible,,ny
+265617,7303070893,albany,29000,1940.0,ford,coupe,good,8 cylinders,gas,13000.0,clean,manual,,rwd,full-size,coupe,black,ny
+265714,7302336225,albany,25000,1936.0,dodge,coupe,excellent,8 cylinders,gas,26000.0,clean,automatic,,rwd,full-size,coupe,yellow,ny
+266514,7315991351,buffalo,10000,1931.0,ford,,good,4 cylinders,gas,42000.0,clean,manual,,,,sedan,,ny
+266804,7314128440,buffalo,28500,1937.0,chevrolet,coupe,,,gas,88000.0,clean,automatic,,,,,,ny
+267395,7309923999,buffalo,8500,1941.0,ford,super delux coupe,excellent,8 cylinders,gas,100.0,clean,manual,,rwd,full-size,coupe,blue,ny
+267946,7305033397,buffalo,1500,1927.0,,willys whippet,fair,,gas,28000.0,missing,other,,,,,brown,ny
+268427,7303159136,catskills,25000,1927.0,,1927 T-Bucket,,,gas,0.0,clean,automatic,,rwd,,,orange,ny
+268899,7308532571,elmira-corning,12500,1929.0,ford,,excellent,8 cylinders,gas,800.0,clean,automatic,,rwd,compact,sedan,black,ny
+269001,7304084676,elmira-corning,35500,1931.0,ford,,,,gas,33000.0,clean,automatic,,,,,yellow,ny
+269627,7309374562,glens falls,8000,1927.0,chevrolet,pickup,,,gas,2.0,rebuilt,other,,,,,,ny
+270521,7310798920,hudson valley,9500,1933.0,chrysler,coupe,,,other,50000.0,clean,other,,,,coupe,,ny
+270788,7308180572,hudson valley,17500,1923.0,ford,23 t,excellent,8 cylinders,gas,1000.0,clean,automatic,,rwd,compact,convertible,yellow,ny
+271154,7304483583,hudson valley,4500,1941.0,chevrolet,special deluxe,fair,6 cylinders,gas,4555.0,clean,manual,,rwd,mid-size,sedan,grey,ny
+271181,7304250338,hudson valley,10000,1937.0,cadillac,lasalle,good,8 cylinders,gas,80000.0,clean,manual,,rwd,full-size,sedan,custom,ny
+271205,7303974245,hudson valley,4500,1941.0,chevrolet,,fair,6 cylinders,gas,3000.0,clean,manual,,rwd,mid-size,sedan,grey,ny
+271363,7302383433,hudson valley,25000,1932.0,chevrolet,2 door sedan,,,gas,17355.0,missing,manual,,,,,,ny
+272423,7315447802,long island,19500,1930.0,ford,model a,,,gas,100000.0,clean,automatic,,,,,,ny
+272889,7314311449,long island,27000,1931.0,chevrolet,coupe,like new,6 cylinders,gas,40000.0,clean,manual,,,,coupe,white,ny
+273114,7313791540,long island,23500,1931.0,ford,model a,,4 cylinders,gas,500.0,clean,manual,,rwd,,,green,ny
+273323,7313244570,long island,12345,1926.0,ford,model t,,8 cylinders,gas,0.0,clean,automatic,,rwd,,coupe,,ny
+274655,7308988394,long island,6100,1940.0,cadillac,lasalle,fair,8 cylinders,gas,9999.0,clean,manual,,fwd,full-size,sedan,black,ny
+275221,7316667516,new york city,18000,1935.0,,1935 International,excellent,6 cylinders,gas,92000.0,clean,manual,,rwd,full-size,pickup,red,ny
+276169,7315783487,new york city,10000,1930.0,,Corvette,,,electric,199000.0,lien,automatic,,,,,,ny
+276471,7315517480,new york city,5800,1931.0,ford,model a,excellent,4 cylinders,gas,99999.0,clean,automatic,,rwd,full-size,truck,green,ny
+277730,7316216017,plattsburgh-adirondacks,3500,1935.0,dodge,,fair,other,other,100000.0,missing,other,,rwd,full-size,sedan,brown,ny
+277732,7316215304,plattsburgh-adirondacks,1500,1940.0,chevrolet,,salvage,,other,100000.0,clean,other,,rwd,full-size,sedan,grey,ny
+277762,7313962943,plattsburgh-adirondacks,4000,1901.0,,olds type r,good,other,gas,100.0,missing,other,,rwd,mid-size,convertible,black,ny
+277763,7313947212,plattsburgh-adirondacks,20000,1930.0,ford,model a,excellent,4 cylinders,gas,1.0,rebuilt,manual,,,,sedan,,ny
+278020,7310482993,potsdam-canton-massena,20000,1939.0,ford,deluxe,excellent,8 cylinders,gas,1800.0,clean,automatic,,rwd,full-size,sedan,black,ny
+278172,7316500917,rochester,19500,1923.0,ford,t-bucket,like new,8 cylinders,gas,126.0,clean,automatic,,rwd,,,yellow,ny
+278386,7315234699,rochester,26500,1928.0,ford,,,8 cylinders,gas,200.0,clean,automatic,,,,,black,ny
+278804,7312780397,rochester,45000,1928.0,,"1928 Ford, Pickup Truck",like new,4 cylinders,gas,1500.0,clean,manual,,rwd,full-size,pickup,blue,ny
+278810,7312752494,rochester,45000,1928.0,ford,sport coupe,excellent,8 cylinders,gas,2520.0,clean,automatic,,rwd,full-size,coupe,red,ny
+279158,7310534164,rochester,35500,1931.0,,1931 model A,,,gas,14000.0,clean,automatic,,,,,,ny
+280354,7301879911,rochester,22900,1932.0,ford,model b,,other,gas,1000.0,clean,manual,,rwd,compact,pickup,blue,ny
+280743,7313615232,syracuse,14000,1923.0,ford,t bucket,,,gas,400.0,clean,automatic,,,,,,ny
+280952,7311483395,syracuse,2995,1942.0,,ONAN PE95-G,,,,0.0,clean,automatic,281,,,,,ny
+281285,7306984457,syracuse,17000,1923.0,ford,t-bucket,excellent,8 cylinders,gas,4000.0,clean,automatic,,rwd,,,purple,ny
+281470,7304823506,syracuse,17500,1926.0,ford,,excellent,8 cylinders,gas,2359.0,clean,automatic,14385554,rwd,compact,convertible,purple,ny
+281929,7315396253,utica-rome-oneida,5500,1936.0,,Vintage Race Car,,,gas,50.0,clean,other,,,,sedan,,ny
+282392,7303649051,utica-rome-oneida,14500,1927.0,,Studebaker T bucket,excellent,8 cylinders,gas,200.0,clean,automatic,,rwd,compact,convertible,black,ny
+283641,7315264337,new hampshire,37500,1934.0,ford,,,,gas,5600.0,missing,automatic,,,,,,nh
+284039,7314542512,new hampshire,25000,1930.0,chevrolet,panel,,,gas,1000.0,clean,manual,,,,,,nh
+284309,7313952570,new hampshire,29900,1937.0,ford,coupe,excellent,,gas,60000.0,clean,automatic,354129273,,,,,nh
+284432,7313795467,new hampshire,18500,1930.0,ford,roadster,good,4 cylinders,gas,47510.0,clean,manual,A4006213,rwd,full-size,convertible,brown,nh
+284553,7313479336,new hampshire,34500,1933.0,ford,,new,8 cylinders,gas,1234.0,clean,manual,,rwd,compact,convertible,green,nh
+284780,7313012404,new hampshire,28000,1936.0,ford,convt,,,gas,60000.0,clean,manual,,,,,,nh
+284956,7312498972,new hampshire,14600,1936.0,ford,,,,gas,386.0,clean,automatic,,,,,,nh
+285509,7311311977,new hampshire,14900,1928.0,ford,,good,4 cylinders,gas,3710.0,clean,manual,,rwd,,truck,green,nh
+285728,7310786551,new hampshire,79000,1940.0,ford,deluxe,excellent,,gas,42000.0,clean,automatic,,,,,,nh
+286728,7314490059,akron / canton,21000,1929.0,ford,model a,,,gas,150.0,clean,manual,,,,,green,oh
+286851,7313500172,akron / canton,11500,1929.0,ford,,good,4 cylinders,gas,10000.0,clean,manual,AZ738492,rwd,,pickup,green,oh
+286854,7313481925,akron / canton,11500,1924.0,ford,model t,good,4 cylinders,gas,1000.0,missing,manual,,rwd,,other,red,oh
+286919,7313128481,akron / canton,26500,1937.0,ford,pick up,,,gas,60000.0,clean,automatic,,,,,,oh
+287585,7308022587,akron / canton,35000,1928.0,ford,model a,excellent,8 cylinders,gas,39561.0,clean,automatic,,rwd,mid-size,sedan,red,oh
+287869,7306234837,akron / canton,21000,1941.0,chevrolet,coupe,excellent,8 cylinders,gas,55467.0,clean,automatic,,rwd,full-size,coupe,orange,oh
+288431,7301943846,akron / canton,15777,1928.0,ford,model a st.rod,excellent,6 cylinders,gas,35000.0,clean,automatic,A609898,rwd,full-size,other,green,oh
+289140,7317039025,cincinnati,27000,1940.0,ford,,excellent,8 cylinders,gas,1000.0,clean,automatic,,rwd,,,,oh
+289145,7317015363,cincinnati,3990,1905.0,chevrolet,astro cargo,excellent,8 cylinders,gas,202570.0,clean,automatic,1GCDM19XX5B120539,rwd,full-size,van,white,oh
+289415,7316054024,cincinnati,8000,1923.0,ford,,good,4 cylinders,gas,0.0,clean,other,,rwd,,convertible,black,oh
+289634,7314952521,cincinnati,47950,1930.0,ford,tudor,,,gas,0.0,clean,automatic,A3472996,,,wagon,red,oh
+289845,7314141336,cincinnati,28500,1937.0,chevrolet,coupe,,,gas,88000.0,clean,automatic,,,,,,oh
+290880,7310056514,cincinnati,5000,1931.0,ford,,good,4 cylinders,gas,10.0,clean,manual,,,,,,oh
+291075,7309333335,cincinnati,59999,1937.0,,willys coupe,good,8 cylinders,gas,1400.0,clean,automatic,,rwd,mid-size,coupe,purple,oh
+291209,7308464928,cincinnati,39950,1940.0,gmc,1 1/2 ton,,,gas,0.0,clean,automatic,AC30310670,,,pickup,green,oh
+292355,7316034266,cleveland,25000,1923.0,ford,model-t c-cab,excellent,8 cylinders,gas,5600.0,clean,automatic,,rwd,sub-compact,pickup,red,oh
+292358,7315994919,cleveland,10000,1931.0,ford,,good,4 cylinders,gas,42000.0,clean,manual,,,,sedan,,oh
+292456,7315352228,cleveland,18995,1934.0,,Hot Rod,excellent,8 cylinders,gas,1234.0,clean,automatic,246810,rwd,full-size,sedan,red,oh
+293019,7312776860,cleveland,22000,1939.0,buick,century,excellent,8 cylinders,gas,71000.0,clean,manual,,rwd,full-size,sedan,black,oh
+293063,7312493225,cleveland,39500,1933.0,ford,,excellent,8 cylinders,gas,59000.0,clean,automatic,,rwd,mid-size,sedan,,oh
+293099,7312145177,cleveland,14900,1930.0,ford,street rod,like new,8 cylinders,gas,1100.0,clean,automatic,,rwd,mid-size,pickup,red,oh
+293908,7308003995,cleveland,13500,1933.0,ford,sedan delivery,,,gas,10.0,clean,other,,rwd,full-size,truck,,oh
+293909,7307989265,cleveland,35000,1928.0,ford,model a,excellent,8 cylinders,gas,39561.0,clean,automatic,,rwd,mid-size,sedan,red,oh
+294055,7307271376,cleveland,33000,1933.0,ford,model 40 deluxe coupe,,,gas,9900.0,clean,automatic,,,,,,oh
+294349,7305552226,cleveland,12000,1937.0,pontiac,deluxe 6,,,gas,73000.0,clean,manual,,,,,,oh
+294366,7305356232,cleveland,25000,1923.0,ford,model-t c-cab,excellent,8 cylinders,gas,5600.0,clean,automatic,,rwd,sub-compact,pickup,red,oh
+294725,7303706830,cleveland,24999,1940.0,chevrolet,,good,8 cylinders,gas,65000.0,clean,automatic,,rwd,full-size,sedan,white,oh
+294899,7302547803,cleveland,12000,1931.0,,1931 Oldsmobile,good,6 cylinders,gas,100000.0,clean,manual,,rwd,,coupe,red,oh
+294919,7302369837,cleveland,16200,1930.0,ford,street rod,like new,8 cylinders,gas,1100.0,clean,automatic,,rwd,mid-size,pickup,red,oh
+295683,7314820192,columbus,6750,1937.0,,plymouth P4,good,6 cylinders,gas,2500.0,clean,manual,,rwd,,,,oh
+295860,7314229566,columbus,15000,1927.0,ford,roadster,excellent,8 cylinders,gas,0.0,clean,automatic,,rwd,compact,coupe,custom,oh
+296006,7313482842,columbus,22500,1933.0,,Plymouth Deluxe,,6 cylinders,gas,68995.0,clean,manual,,rwd,full-size,sedan,black,oh
+296392,7311730612,columbus,35000,1939.0,ford,sedan,excellent,8 cylinders,gas,5000.0,clean,automatic,,rwd,mid-size,sedan,blue,oh
+296619,7311001453,columbus,49500,1928.0,ford,model a,excellent,8 cylinders,gas,2000.0,clean,automatic,,,,,,oh
+296620,7310994407,columbus,44500,1932.0,ford,coupe,like new,8 cylinders,gas,2800.0,clean,automatic,,,,,,oh
+296811,7309927286,columbus,2000,1939.0,gmc,classic flatbed,fair,other,gas,19517.0,clean,manual,,,full-size,truck,red,oh
+296879,7309506906,columbus,22995,1932.0,pontiac,coupe,excellent,6 cylinders,gas,35000.0,clean,manual,,rwd,,coupe,green,oh
+297058,7308300312,columbus,10000,1931.0,ford,,good,4 cylinders,gas,42000.0,clean,manual,,,,sedan,,oh
+300580,7305648302,mansfield,45000,1932.0,ford,,like new,8 cylinders,gas,500.0,clean,automatic,,rwd,,coupe,black,oh
+302209,7310476653,toledo,29000,1939.0,ford,deluxe,excellent,,gas,5000.0,clean,automatic,,,,,,oh
+302472,7306463439,toledo,12900,1933.0,chevrolet,eagle,good,6 cylinders,gas,50000.0,clean,manual,,rwd,full-size,,black,oh
+302506,7306183280,toledo,8500,1925.0,ford,model t,good,4 cylinders,gas,1.0,clean,manual,,,,coupe,black,oh
+303418,7307980870,youngstown,35000,1928.0,ford,model a,excellent,8 cylinders,gas,39561.0,clean,automatic,,rwd,mid-size,sedan,red,oh
+303514,7305390793,youngstown,3995,1941.0,,studebaker,fair,8 cylinders,gas,100000.0,clean,automatic,,rwd,full-size,sedan,black,oh
+303538,7305094030,youngstown,9500,1937.0,,Hudson terraplane,good,6 cylinders,gas,80000.0,clean,manual,,rwd,full-size,sedan,custom,oh
+304290,7306396205,northwest OK,10000,1925.0,ford,model tt,excellent,4 cylinders,gas,1.0,clean,manual,12263685,rwd,,pickup,black,ok
+304674,7315818429,oklahoma city,12345,1934.0,,MISCELLANEOUS,,,gas,99999.0,parts only,other,,,,,,ok
+305879,7311625443,oklahoma city,27900,1937.0,pontiac,coupe,good,8 cylinders,gas,100.0,clean,automatic,,,,,,ok
+306660,7309361650,oklahoma city,13500,1935.0,ford,pickup,good,,gas,5000.0,clean,automatic,1504371,rwd,,pickup,,ok
+306729,7308981747,oklahoma city,16000,1929.0,ford,model a,good,4 cylinders,gas,22539.0,clean,manual,,rwd,,coupe,black,ok
+307109,7306956602,oklahoma city,44980,1930.0,ford,2 dr sedan,,,gas,10020.0,clean,automatic,,,,sedan,red,ok
+307121,7306915187,oklahoma city,22999,1927.0,ford,tall t,,,other,44.0,clean,automatic,ARKAVPC2670002934,,,,,ok
+307125,7306914519,oklahoma city,29999,1940.0,ford,tudor,,,other,71295.0,clean,manual,185696104,,,,,ok
+310375,7304248175,tulsa,30499,1931.0,,1931 Studebaker,excellent,8 cylinders,gas,5000.0,clean,automatic,,rwd,full-size,coupe,blue,ok
+311072,7316063815,bend,9500,1927.0,ford,model a roadster,excellent,,gas,111.0,clean,manual,,,,,,or
+312440,7311708859,bend,6500,1944.0,ford,willys gpw,excellent,8 cylinders,gas,22250.0,clean,manual,,4wd,,,black,or
+312695,7310956397,bend,18000,1936.0,ford,,excellent,8 cylinders,gas,49999.0,clean,manual,3207794,rwd,,sedan,blue,or
+314101,7314121486,corvallis/albany,15000,1928.0,ford,model a,,,gas,1233.0,clean,automatic,,,,,,or
+315789,7316577964,eugene,3000,1937.0,dodge,tow truck,salvage,8 cylinders,gas,123.0,parts only,manual,,rwd,mid-size,pickup,black,or
+316945,7313483392,eugene,18500,1923.0,ford,t bucket,good,,gas,12345.0,clean,automatic,,,,,black,or
+317864,7310905114,eugene,27000,1913.0,ford,"""t""",like new,4 cylinders,gas,9999999.0,clean,other,,rwd,compact,convertible,red,or
+317887,7310881315,eugene,22500,1931.0,ford,,excellent,4 cylinders,gas,1000000.0,clean,manual,,rwd,mid-size,coupe,grey,or
+318401,7308733456,eugene,24500,1932.0,ford,,,,gas,17.0,clean,automatic,,,,,,or
+318888,7306475630,klamath falls,25000,1931.0,ford,2 door sedan,good,8 cylinders,gas,2000.0,clean,automatic,,rwd,mid-size,sedan,black,or
+319050,7316529981,medford-ashland,13800,1939.0,pontiac,,,,gas,999999.0,clean,automatic,,,,,,or
+319510,7313975059,medford-ashland,48995,1932.0,ford,roadster,,8 cylinders,gas,13231.0,clean,automatic,AB128132RB,rwd,,,,or
+320057,7309410916,medford-ashland,18500,1923.0,ford,t bucket,,,gas,123456.0,clean,automatic,,,,,black,or
+320110,7308611448,medford-ashland,9500,1929.0,dodge,rat rod,good,8 cylinders,gas,35000.0,missing,manual,,rwd,mid-size,other,black,or
+321071,7314314735,oregon coast,43000,1941.0,chevrolet,coupe,good,8 cylinders,gas,3000.0,clean,automatic,,rwd,,,,or
+322057,7316907319,portland,15000,1910.0,,1910 MAXWELL AA,excellent,other,gas,1.0,clean,manual,,,,convertible,red,or
+322165,7316862695,portland,22000,1940.0,,Plymouth PT 105 Pickup,,,gas,1000.0,clean,manual,,,,,,or
+325275,7316060406,salem,11500,1928.0,pontiac,coupe,good,6 cylinders,gas,65728.0,clean,manual,,rwd,,coupe,,or
+328704,7307986441,erie,35000,1928.0,ford,model a,excellent,8 cylinders,gas,39561.0,clean,automatic,,rwd,mid-size,sedan,red,pa
+329069,7316685952,harrisburg,12900,1941.0,cadillac,,,,gas,12000.0,clean,automatic,,,,,,pa
+331097,7316129225,lehigh valley,18500,1938.0,,Plymouth,,,gas,100000.0,clean,automatic,,,,,,pa
+331100,7316111139,lehigh valley,24900,1937.0,ford,sedan,,,gas,4000.0,clean,automatic,,,,,,pa
+331108,7316021279,lehigh valley,26500,1942.0,chevrolet,sedan,good,8 cylinders,gas,15000.0,clean,automatic,,rwd,,sedan,custom,pa
+331921,7306480474,lehigh valley,10000,1930.0,ford,model a,good,4 cylinders,gas,1786.0,clean,manual,,rwd,,,blue,pa
+332015,7305079589,lehigh valley,4000,1941.0,pontiac,silver streak,fair,8 cylinders,gas,60268.0,clean,manual,,rwd,full-size,sedan,black,pa
+332041,7304739528,lehigh valley,10000,1934.0,ford,sedan,,,gas,10000.0,clean,other,,,,,,pa
+334058,7311874450,philadelphia,3495,1932.0,ford,truck,,,other,1234567.0,clean,other,,,,,,pa
+334783,7309558849,philadelphia,10500,1923.0,ford,model t,excellent,8 cylinders,gas,4000.0,clean,automatic,,rwd,,,black,pa
+334820,7309466460,philadelphia,59999,1937.0,,willys coupe,like new,8 cylinders,gas,1234.0,clean,automatic,,rwd,mid-size,coupe,purple,pa
+335594,7316546216,pittsburgh,15000,1930.0,ford,model a,good,other,gas,1.0,clean,other,,,,,blue,pa
+335595,7316533844,pittsburgh,15000,1930.0,ford,roadster,good,4 cylinders,gas,1.0,clean,manual,,rwd,,,grey,pa
+335750,7315993185,pittsburgh,10000,1931.0,ford,model a,good,4 cylinders,gas,42000.0,clean,manual,,,,sedan,,pa
+335971,7315224859,pittsburgh,15000,1937.0,pontiac,sedan,,,gas,100000.0,clean,automatic,,,,,,pa
+337039,7311136214,pittsburgh,12500,1939.0,mercury,351 windsor,fair,8 cylinders,gas,63204.0,clean,automatic,99A704550,rwd,full-size,sedan,green,pa
+337120,7310895168,pittsburgh,13500,1929.0,ford,,like new,4 cylinders,gas,1200000.0,clean,manual,A1914693,,,other,yellow,pa
+337292,7310196780,pittsburgh,35000,1928.0,ford,model a tudor,excellent,,gas,0.0,clean,manual,,,,coupe,red,pa
+337571,7309030790,pittsburgh,28800,1935.0,ford,,new,8 cylinders,gas,2000.0,clean,automatic,,,full-size,pickup,custom,pa
+337624,7308685973,pittsburgh,11000,1936.0,pontiac,sedan,good,6 cylinders,gas,50000.0,clean,manual,,rwd,full-size,sedan,custom,pa
+337761,7307975903,pittsburgh,35000,1928.0,ford,model a,excellent,8 cylinders,gas,39561.0,clean,automatic,,rwd,mid-size,sedan,red,pa
+338653,7307908851,poconos,20000,1923.0,ford,model t,like new,,gas,101.0,lien,automatic,,,,,,pa
+338668,7307340327,poconos,24900,1929.0,ford,model a hiboy roadster,excellent,8 cylinders,gas,12500.0,clean,manual,,rwd,,,orange,pa
+338676,7307185510,poconos,9500,1931.0,ford,model a,good,4 cylinders,gas,120000.0,clean,manual,,rwd,mid-size,sedan,green,pa
+339857,7308538016,scranton / wilkes-barre,12000,1941.0,dodge,,good,8 cylinders,gas,45000.0,clean,automatic,,4wd,full-size,coupe,green,pa
+340047,7305967235,scranton / wilkes-barre,40000,1929.0,ford,roadster,excellent,8 cylinders,gas,5000.0,clean,automatic,,rwd,,convertible,orange,pa
+340677,7308794415,williamsport,7000,1941.0,chevrolet,special deluxe,good,6 cylinders,gas,70000.0,clean,manual,,rwd,,,white,pa
+341306,7308379518,york,5900,1935.0,chevrolet,pick up,,6 cylinders,gas,99999.0,clean,manual,14FB066338,,full-size,pickup,green,pa
+341807,7316319911,rhode island,12500,1924.0,ford,model t,excellent,8 cylinders,gas,1000.0,clean,automatic,,rwd,,,black,ri
+342810,7310385550,rhode island,9500,1938.0,ford,expedition,fair,8 cylinders,gas,123123.0,missing,manual,,fwd,full-size,convertible,brown,ri
+343026,7308852904,rhode island,20000,1933.0,ford,roadster,new,8 cylinders,gas,0.0,clean,automatic,,rwd,mid-size,other,custom,ri
+343303,7306682683,rhode island,129500,1934.0,,Packard,,,gas,56802.0,clean,manual,,,,,,ri
+343414,7305709675,rhode island,13000,1932.0,chrysler,rat rod,excellent,8 cylinders,gas,42000.0,rebuilt,automatic,,rwd,mid-size,coupe,black,ri
+343582,7304463629,rhode island,18500,1923.0,ford,t-bucket,excellent,8 cylinders,gas,2500.0,clean,automatic,,rwd,mid-size,convertible,,ri
+343736,7303264946,rhode island,69500,1941.0,,Packard 160,,,gas,77518.0,clean,manual,,,,,,ri
+343838,7302414486,rhode island,25000,1932.0,chevrolet,2 door sedan,,,gas,17355.0,missing,manual,,,,,,ri
+343947,7316996301,charleston,17000,1942.0,chevrolet,pannel van,,8 cylinders,gas,100000.0,clean,automatic,,rwd,full-size,other,silver,sc
+344555,7308464939,charleston,39950,1940.0,gmc,1 1/2 ton,,,gas,0.0,clean,automatic,AC30310670,,,pickup,green,sc
+345225,7315387499,columbia,12000,1937.0,pontiac,2 door touring sedan,,6 cylinders,gas,34000.0,clean,manual,,,,,green,sc
+346368,7301900313,columbia,26000,1924.0,,Nash Victoria,good,6 cylinders,gas,20316.0,clean,manual,,rwd,full-size,coupe,,sc
+346443,7314786805,florence,23500,1929.0,chevrolet,national,excellent,8 cylinders,gas,12345.0,clean,automatic,,rwd,,,custom,sc
+346492,7312362654,florence,12500,1929.0,ford,roadster pickup,good,8 cylinders,gas,54011.0,clean,manual,,rwd,compact,pickup,red,sc
+346590,7308153379,florence,16000,1929.0,ford,model a,good,4 cylinders,gas,1000.0,clean,manual,,rwd,,truck,green,sc
+346611,7306439960,florence,10000,1925.0,ford,model t,excellent,4 cylinders,gas,1234.0,clean,automatic,,rwd,mid-size,convertible,blue,sc
+346716,7317039429,greenville / upstate,8500,1929.0,,gazelle convertible,excellent,6 cylinders,gas,5800.0,clean,automatic,M10163A274LO21789,rwd,compact,,brown,sc
+347526,7312622183,greenville / upstate,7500,1930.0,ford,,good,3 cylinders,gas,500.0,missing,manual,,rwd,sub-compact,truck,green,sc
+347803,7310907380,greenville / upstate,22000,1945.0,jeep,m.b. model willis,good,4 cylinders,gas,999999.0,clean,manual,,4wd,,,green,sc
+348446,7306292293,greenville / upstate,34995,1937.0,,wild rod hot rod,like new,8 cylinders,gas,500.0,clean,automatic,3718466005,,,,,sc
+348468,7306140875,greenville / upstate,7900,1940.0,,Studebaker Champion,good,6 cylinders,gas,5000.0,clean,manual,,rwd,,sedan,black,sc
+349271,7316653249,myrtle beach,17500,1931.0,chevrolet,,excellent,6 cylinders,gas,26954.0,clean,manual,,rwd,,,,sc
+349287,7316433774,myrtle beach,49995,1937.0,chevrolet,master business coupe,good,,other,10.0,clean,other,1157308,,,coupe,,sc
+349315,7315945686,myrtle beach,10950,1930.0,ford,1930 shay repoduction,fair,4 cylinders,gas,2300.0,clean,automatic,,,compact,coupe,custom,sc
+349403,7314604932,myrtle beach,39900,1930.0,ford,model a,excellent,4 cylinders,gas,5000.0,clean,manual,,,,pickup,grey,sc
+349982,7305627004,myrtle beach,45900,1938.0,cadillac,lasalle,excellent,8 cylinders,gas,0.0,clean,manual,,rwd,full-size,convertible,black,sc
+350783,7303617957,rapid city / west SD,12000,1916.0,dodge,,good,4 cylinders,gas,30000.0,missing,manual,,rwd,full-size,convertible,black,sd
+350900,7315279963,sioux falls / SE SD,19500,1939.0,ford,panel,excellent,8 cylinders,gas,81000.0,clean,manual,,rwd,,,green,sd
+351460,7302144349,sioux falls / SE SD,5000,1940.0,chevrolet,kc 1/2ton,fair,6 cylinders,gas,100000.0,clean,manual,21KC124333,rwd,,pickup,custom,sd
+352109,7310486394,chattanooga,22500,1936.0,,Nash,,,gas,1.0,clean,automatic,,,,,,tn
+353737,7313116000,jackson,28000,1928.0,ford,coupe,excellent,,gas,1.0,clean,automatic,,fwd,compact,coupe,blue,tn
+354099,7316849791,knoxville,39500,1932.0,chevrolet,roadster pickup,like new,6 cylinders,gas,1.0,clean,automatic,,rwd,full-size,pickup,blue,tn
+354266,7316311637,knoxville,13500,1942.0,,OLDSMOBILE  66 SEDAN,good,8 cylinders,gas,97000.0,clean,automatic,,rwd,,,purple,tn
+354315,7316040096,knoxville,25000,1927.0,ford,pickup,excellent,8 cylinders,gas,2700.0,clean,manual,,rwd,compact,convertible,black,tn
+354413,7315681933,knoxville,5995,1938.0,ford,,fair,8 cylinders,gas,80000.0,clean,manual,,rwd,,sedan,,tn
+354438,7315578359,knoxville,32500,1939.0,,OLDSMOBILE SEDAN,excellent,8 cylinders,gas,19588.0,clean,automatic,,rwd,,sedan,custom,tn
+354536,7315082266,knoxville,5995,1938.0,ford,,fair,8 cylinders,gas,80000.0,clean,manual,,rwd,,sedan,,tn
+354578,7314906009,knoxville,5995,1938.0,ford,,fair,8 cylinders,gas,80000.0,clean,manual,,rwd,,sedan,,tn
+354658,7314738800,knoxville,5500,1938.0,ford,deluxe,,,gas,88000.0,clean,manual,,,,,,tn
+354720,7314406161,knoxville,17000,1923.0,ford,t bucket,excellent,8 cylinders,gas,13295.0,clean,automatic,,rwd,,convertible,red,tn
+354746,7314259463,knoxville,5500,1938.0,ford,deluxe,,,gas,88000.0,clean,manual,,,,,,tn
+354765,7314142907,knoxville,5995,1938.0,ford,,fair,8 cylinders,gas,80000.0,clean,manual,,rwd,,sedan,,tn
+354826,7313766678,knoxville,5500,1938.0,ford,deluxe,,,gas,88000.0,clean,manual,,,,,,tn
+355009,7312788325,knoxville,5500,1938.0,ford,deluxe,,,gas,88000.0,clean,manual,,,,,,tn
+355084,7312123096,knoxville,9500,1940.0,,Oldsmobile,,,gas,168000.0,clean,automatic,,,,,,tn
+355726,7308701715,knoxville,5995,1938.0,ford,,fair,8 cylinders,gas,80000.0,clean,manual,,rwd,,sedan,,tn
+355821,7308154619,knoxville,5995,1938.0,ford,,fair,8 cylinders,gas,80000.0,clean,manual,,rwd,,sedan,,tn
+355917,7307385914,knoxville,5500,1938.0,ford,deluxe,,,gas,88000.0,clean,manual,,,,,,tn
+355935,7307348130,knoxville,12500,1940.0,chevrolet,master deluxe,,,gas,98000.0,clean,manual,,,,,,tn
+356090,7306590152,knoxville,16500,1931.0,ford,,excellent,8 cylinders,gas,1000.0,clean,automatic,,rwd,full-size,convertible,black,tn
+356102,7306500368,knoxville,29500,1935.0,ford,,good,8 cylinders,gas,30000.0,clean,automatic,,rwd,mid-size,sedan,red,tn
+356109,7306462129,knoxville,58500,1933.0,ford,coupe,,,gas,5830.0,clean,automatic,,,,,black,tn
+356159,7306116335,knoxville,55000,1940.0,ford,,,,gas,50000.0,clean,automatic,,,,,,tn
+356160,7306113525,knoxville,55000,1940.0,ford,,,,gas,50000.0,clean,automatic,,,,,,tn
+356162,7306107630,knoxville,69000,1936.0,ford,,,,gas,50000.0,clean,automatic,,,,,,tn
+356252,7305459192,knoxville,24500,1941.0,dodge,pickup,good,8 cylinders,gas,99999.0,clean,manual,,,,,green,tn
+356484,7303791727,knoxville,3000,1931.0,,1931 Model A,,,gas,100.0,clean,manual,,,,,yellow,tn
+357539,7311455448,memphis,5500,1936.0,ford,,,,gas,999999.0,clean,automatic,,,,,,tn
+357548,7311380815,memphis,2250,1927.0,ford,,,,gas,999999.0,missing,automatic,,,,,,tn
+358829,7316535513,nashville,43000,1937.0,ford,coupe,like new,8 cylinders,gas,5600.0,clean,automatic,,rwd,full-size,coupe,blue,tn
+359830,7314167441,nashville,22500,1929.0,ford,,,,gas,9999999.0,clean,automatic,,,,,,tn
+362277,7306392474,tri-cities,31000,1932.0,ford,roadster,,,gas,14000.0,clean,automatic,,,,,,tn
+363460,7317037542,austin,29500,1932.0,ford,roadster,like new,8 cylinders,gas,3500.0,clean,automatic,,rwd,mid-size,convertible,brown,tx
+364396,7315031372,austin,9250,1930.0,ford,model a,,,gas,41000.0,clean,manual,,,,,,tx
+364891,7314114548,austin,28500,1937.0,chevrolet,coupe,,,gas,88000.0,clean,automatic,,,,,,tx
+366673,7302581898,beaumont / port arthur,32000,1939.0,chevrolet,,excellent,8 cylinders,gas,16000.0,clean,automatic,,rwd,full-size,sedan,red,tx
+366736,7315962427,brownsville,38000,1933.0,chevrolet,coupe,excellent,6 cylinders,gas,66000.0,clean,manual,,rwd,compact,coupe,black,tx
+367216,7309062707,college station,45000,1930.0,ford,model a,,,gas,1.0,clean,automatic,,,,,,tx
+370083,7315812600,dallas / fort worth,12345,1934.0,,Miscellanious,,,gas,999999.0,parts only,manual,,,,,,tx
+370410,7315423005,dallas / fort worth,10000,1928.0,chevrolet,truck,good,4 cylinders,gas,58997.0,missing,manual,,rwd,,truck,,tx
+370835,7315203355,dallas / fort worth,14000,1929.0,ford,a,,,gas,21887.0,clean,automatic,,,,,,tx
+370836,7315203222,dallas / fort worth,13900,1927.0,,Bugatti T35,,4 cylinders,gas,2.0,clean,manual,,rwd,,,,tx
+371170,7315035485,dallas / fort worth,5750,1931.0,ford,model a,,,gas,31000.0,clean,manual,,,,,,tx
+371203,7315027960,dallas / fort worth,9250,1931.0,ford,model a coupe,,,gas,41000.0,clean,manual,,,,,,tx
+371379,7314952517,dallas / fort worth,47950,1930.0,ford,tudor,,,gas,0.0,clean,automatic,A3472996,,,wagon,red,tx
+371401,7314946473,dallas / fort worth,1500,1927.0,ford,model t,,4 cylinders,gas,123456.0,clean,manual,,rwd,full-size,other,brown,tx
+371529,7309061534,deep east texas,45000,1930.0,ford,model a,,,gas,1.0,clean,automatic,,,,,,tx
+375446,7315637630,houston,46500,1939.0,ford,deluxe hardtop convertible,like new,8 cylinders,gas,5708.0,clean,automatic,91A741777,rwd,,convertible,,tx
+375537,7315471369,houston,39500,1936.0,buick,40 series coupe,excellent,8 cylinders,gas,31840.0,clean,manual,,rwd,,coupe,black,tx
+376036,7315042835,houston,17500,1931.0,ford,model a,,,gas,2000.0,clean,manual,,,,,,tx
+377910,7315553774,lubbock,4500,1941.0,ford,super deluxe,good,8 cylinders,gas,999000.0,clean,other,YESORIGINAL,rwd,full-size,sedan,brown,tx
+379769,7303429154,odessa / midland,21000,1931.0,ford,model a,good,,gas,99999.0,clean,automatic,,,,,,tx
+380503,7315541726,san antonio,12000,1929.0,ford,truck,excellent,4 cylinders,gas,10000.0,clean,manual,,rwd,full-size,truck,green,tx
+381483,7313581973,san antonio,8700,1926.0,ford,model t,,,gas,10000.0,clean,other,,,,,,tx
+381543,7313458519,san antonio,30000,1929.0,ford,,excellent,8 cylinders,gas,2000.0,clean,automatic,,rwd,,,,tx
+381702,7313138810,san antonio,18000,1929.0,ford,model a,excellent,4 cylinders,gas,84000.0,clean,manual,,rwd,compact,coupe,black,tx
+382293,7311593023,san antonio,35700,1940.0,ford,tudor sedan,excellent,8 cylinders,gas,75000.0,clean,manual,,rwd,full-size,sedan,black,tx
+382579,7311009593,san antonio,5000,1929.0,mercedes-benz,benz,new,,gas,1.0,clean,manual,,,,convertible,,tx
+383294,7314016897,tyler / east TX,33000,1936.0,ford,phaeton,excellent,8 cylinders,gas,44000.0,clean,manual,,rwd,full-size,convertible,brown,tx
+383653,7309063439,tyler / east TX,45000,1930.0,ford,model a,,,gas,1.0,clean,automatic,,,,,,tx
+385143,7313120387,wichita falls,10500,1937.0,,International,good,8 cylinders,gas,18537.0,clean,automatic,,rwd,full-size,pickup,,tx
+385415,7305688769,wichita falls,15000,1925.0,ford,,good,8 cylinders,gas,600.0,clean,automatic,,rwd,mid-size,pickup,blue,tx
+385765,7304839527,ogden-clearfield,45000,1931.0,chevrolet,5 window coupe,excellent,8 cylinders,gas,112.0,rebuilt,automatic,5AE33696,rwd,full-size,coupe,orange,ut
+386350,7302364558,salt lake city,21000,1930.0,ford,model a tudor sedan,excellent,4 cylinders,gas,1000.0,clean,manual,,rwd,,sedan,custom,ut
+386460,7314549601,st george,28750,1938.0,chevrolet,coupe,good,8 cylinders,gas,51101.0,clean,automatic,,rwd,mid-size,coupe,red,ut
+387132,7314264162,vermont,25000,1923.0,ford,t bucket,like new,8 cylinders,gas,1.0,clean,automatic,,rwd,compact,other,green,vt
+387142,7314184127,vermont,12000,1930.0,chevrolet,coupe,,,gas,65000.0,missing,manual,,,,,,vt
+387253,7313641096,vermont,17000,1935.0,,Oldsmobile,good,,gas,123.0,missing,manual,,,,,,vt
+388745,7304474417,vermont,18500,1923.0,ford,t bucket,like new,8 cylinders,gas,2500.0,clean,automatic,,rwd,mid-size,convertible,,vt
+389349,7315330800,charlottesville,9900,1929.0,mercedes-benz,benz,excellent,4 cylinders,gas,18861.0,clean,automatic,,,,,white,va
+389865,7301835472,charlottesville,25000,1934.0,chevrolet,,excellent,8 cylinders,gas,1.0,clean,automatic,,rwd,,sedan,yellow,va
+390272,7303176049,danville,32500,1941.0,,1941 Pick up,excellent,8 cylinders,gas,4200.0,clean,automatic,AD296289,rwd,,pickup,yellow,va
+390430,7315596230,fredericksburg,25000,1929.0,ford,phaeton,like new,8 cylinders,gas,7000.0,clean,manual,,rwd,,convertible,blue,va
+391948,7304348071,harrisonburg,12500,1930.0,ford,,good,8 cylinders,gas,123456.0,missing,automatic,,rwd,full-size,coupe,black,va
+392013,7316931873,lynchburg,20000,1930.0,ford,model a tudor,excellent,4 cylinders,gas,330.0,clean,manual,,rwd,,sedan,black,va
+392675,7308546638,new river valley,2000,1941.0,,plymouth business coupe,,,gas,1.0,clean,automatic,,,,,,va
+393532,7313765127,norfolk / hampton roads,26500,1937.0,chevrolet,coupe,,,gas,300.0,clean,automatic,,,,,,va
+394345,7309977549,norfolk / hampton roads,10300,1937.0,dodge,d-5,good,8 cylinders,gas,1000.0,clean,automatic,,rwd,full-size,coupe,custom,va
+394362,7309888747,norfolk / hampton roads,16500,1929.0,ford,phaeton,excellent,4 cylinders,gas,100000.0,clean,manual,,rwd,,convertible,green,va
+396029,7315209841,richmond,29995,1939.0,chevrolet,business coupe,good,8 cylinders,gas,500.0,clean,automatic,,rwd,mid-size,coupe,blue,va
+396101,7314770291,richmond,37500,1938.0,chevrolet,,,,gas,6000.0,clean,automatic,,,,,,va
+396102,7314769142,richmond,37500,1938.0,chevrolet,,,,gas,6000.0,clean,automatic,,,,,,va
+398915,7303762995,roanoke,10500,1936.0,pontiac,,,,gas,150000.0,clean,automatic,,,,,,va
+399527,7312407784,winchester,24000,1936.0,ford,,excellent,8 cylinders,gas,99999.0,clean,automatic,,rwd,full-size,sedan,custom,va
+399951,7301965859,winchester,35000,1929.0,ford,roadster,excellent,8 cylinders,gas,2900.0,clean,automatic,,rwd,compact,convertible,custom,va
+400416,7314348336,bellingham,14500,1938.0,chevrolet,1/2 ton panel,good,8 cylinders,gas,32708.0,clean,automatic,,rwd,,,,wa
+403572,7311707810,kennewick-pasco-richland,6500,1944.0,ford,willys gpw,good,8 cylinders,gas,22250.0,clean,manual,,4wd,,,,wa
+404152,7309573779,kennewick-pasco-richland,13500,1928.0,ford,model a tudor,good,4 cylinders,gas,325.0,clean,manual,,rwd,full-size,sedan,blue,wa
+404261,7308923681,kennewick-pasco-richland,6500,1929.0,ford,,good,other,other,1.0,missing,other,,rwd,,,,wa
+404981,7305654174,kennewick-pasco-richland,20000,1934.0,ford,panel delivery,excellent,8 cylinders,gas,1.0,clean,automatic,,rwd,full-size,truck,red,wa
+405514,7312756764,moses lake,6000,1941.0,chevrolet,,good,6 cylinders,gas,62000.0,clean,manual,AG404535,fwd,full-size,pickup,red,wa
+407496,7316987808,seattle-tacoma,18000,1934.0,chevrolet,pick up,good,8 cylinders,gas,87.0,clean,automatic,,rwd,full-size,pickup,blue,wa
+407763,7316913715,seattle-tacoma,15000,1910.0,,maxwell Aa,excellent,other,gas,100.0,clean,manual,,,,convertible,red,wa
+408697,7316583086,seattle-tacoma,17500,1930.0,ford,model a,excellent,4 cylinders,gas,70349.0,clean,manual,,rwd,,coupe,brown,wa
+410090,7314179727,skagit / island / SJI,29950,1929.0,ford,roadster,excellent,8 cylinders,gas,47000.0,clean,automatic,,rwd,,,yellow,wa
+410129,7313565450,skagit / island / SJI,15900,1927.0,chrysler,model 70,excellent,4 cylinders,gas,5557.0,clean,manual,P466L,fwd,full-size,coupe,yellow,wa
+410177,7312550653,skagit / island / SJI,17500,1928.0,,A,good,4 cylinders,gas,18000.0,clean,manual,,rwd,,,green,wa
+410659,7317089200,spokane / coeur d'alene,18500,1922.0,ford,,excellent,8 cylinders,gas,13000.0,clean,automatic,,rwd,,,black,wa
+411056,7314059176,wenatchee,49500,1940.0,ford,pickup,excellent,,gas,11000.0,clean,automatic,,,,truck,red,wa
+414282,7316687149,eastern panhandle,3700,1927.0,chevrolet,rat rod,salvage,other,gas,1.0,parts only,other,,rwd,full-size,pickup,grey,wv
+414456,7305523998,eastern panhandle,6500,1938.0,,plymouth truck,good,other,gas,900000.0,clean,other,,rwd,full-size,pickup,green,wv
+415840,7305833526,appleton-oshkosh-FDL,30500,1932.0,ford,replica 5 window,good,8 cylinders,gas,35500.0,clean,automatic,,rwd,,,blue,wi
+416577,7309724487,eau claire,9900,1936.0,pontiac,4 door,good,8 cylinders,gas,36000.0,clean,manual,,rwd,,sedan,yellow,wi
+416850,7304194542,eau claire,7500,1931.0,ford,,,,gas,1174.0,clean,manual,,,,,,wi
+418086,7314907515,janesville,9500,1940.0,dodge,business coupe,fair,,gas,100000.0,clean,automatic,,,,coupe,,wi
+419377,7310612951,la crosse,13500,1936.0,,Nash Lafayette,good,6 cylinders,gas,40000.0,clean,manual,,rwd,full-size,sedan,green,wi
+419802,7316318741,madison,13900,1928.0,ford,,,,gas,87906.0,clean,manual,,,,,,wi
+420959,7309872320,madison,59999,1937.0,,willys coupe,like new,8 cylinders,gas,1234.0,clean,automatic,,rwd,mid-size,coupe,purple,wi
+420960,7309868645,madison,15000,1941.0,ford,tudor,excellent,8 cylinders,gas,63000.0,clean,manual,,rwd,full-size,coupe,green,wi
+422011,7301809685,madison,26500,1925.0,ford,tbucket,excellent,8 cylinders,gas,3000.0,clean,automatic,,rwd,,,,wi
+422306,7316427644,milwaukee,12000,1936.0,chevrolet,two door sedan,excellent,8 cylinders,gas,90000.0,clean,manual,,rwd,full-size,sedan,grey,wi
+422827,7314921995,milwaukee,3500,1934.0,chevrolet,sedan,,,gas,100000.0,clean,manual,,,,,,wi
+423180,7314024029,milwaukee,2900,1940.0,,Oldsmobile,,,gas,50000.0,clean,manual,,,,,,wi
+423458,7313237247,milwaukee,30000,1934.0,ford,cabriolet,excellent,8 cylinders,gas,10380.0,clean,automatic,,rwd,,,red,wi
+424160,7310668033,milwaukee,3000,1941.0,buick,sedanette,fair,8 cylinders,gas,70000.0,clean,manual,,rwd,full-size,coupe,green,wi
+424398,7309879594,milwaukee,18500,1929.0,ford,model a,,,gas,29.0,missing,automatic,,,,,,wi
+424535,7309168870,milwaukee,3500,1936.0,dodge,brothers touring sedan,,,gas,59000.0,clean,manual,,,,,,wi
+424720,7308202066,milwaukee,49500,1937.0,ford,convertible,excellent,8 cylinders,gas,3200.0,clean,automatic,,rwd,mid-size,convertible,custom,wi
+425081,7313883717,northern WI,25900,1937.0,chevrolet,coupe,good,8 cylinders,gas,80000.0,clean,automatic,,rwd,,coupe,,wi
+426183,7304073374,wausau,46350,1931.0,ford,model a,like new,8 cylinders,gas,10000.0,clean,automatic,,rwd,full-size,sedan,black,wi
+426283,7316806494,wyoming,14995,1929.0,ford,,,,gas,2000.0,clean,automatic,,,,,,wy
+426838,7302198494,wyoming,21900,1920.0,,Paige Glenbrook Touring,good,6 cylinders,gas,11065.0,clean,manual,,rwd,full-size,other,black,wy
