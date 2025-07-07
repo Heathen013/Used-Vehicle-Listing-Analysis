@@ -51,6 +51,11 @@ Model error on the test set: **< less than 1 >**
 
 ---
 
+## Link to the notebook 
+https://github.com/Heathen013/Used-Vehicle-Listing-Analysis/tree/master/notebook
+
+---
+
 ## 📎 Author Notes
 
 This project was built to align technical rigor with business explainability. It provides a flexible structure for extending into deeper market segmentation, listing optimization, and customer-facing valuation tools.
