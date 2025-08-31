@@ -27,7 +27,7 @@
 Model error on the test set: **< less than 1 >**
 
 ---
-
+'''
 ## 📦 Repository Structure
 📦 vehicle-price-insights/
 ├── data/
@@ -37,7 +37,7 @@ Model error on the test set: **< less than 1 >**
 ├── images/
 │   └── [Place any charts or diagrams here]
 └── README.md                            # Executive summary + insights
-
+'''
 
 ## 🛤️ Future Enhancements
 
