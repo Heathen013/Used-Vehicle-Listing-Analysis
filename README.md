@@ -29,14 +29,14 @@ Model error on the test set: **< less than 1 >**
 ---
 
     ## 📦 Repository Structure
-📦 vehicle-price-insights/
-├── data/
-│   └── vehicle_listings.csv             # Main cleaned dataset
-├── notebook/
-│   └── vehicle_price_analysis.ipynb     # Core analysis + modeling
-├── images/
-│   └── [Place any charts or diagrams here]
-└── README.md                            # Executive summary + insights
+    📦 vehicle-price-insights/
+    ├── data/
+    │   └── vehicle_listings.csv             # Main cleaned dataset
+    ├── notebook/
+    │   └── vehicle_price_analysis.ipynb     # Core analysis + modeling
+    ├── images/
+    │   └── [Place any charts or diagrams here]
+    └── README.md                            # Executive summary + insights
 
 
 ## 🛤️ Future Enhancements
